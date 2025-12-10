@@ -852,9 +852,6 @@ onUnmounted(() => {
 
 .tooltip-date {
   font-weight: 600;
-  margin-bottom: 0.5rem;
-  padding-bottom: 0.5rem;
-  border-bottom: 1px solid var(--border-color);
 }
 
 .tooltip-event {
@@ -864,8 +861,8 @@ onUnmounted(() => {
 }
 
 .tooltip-event:first-of-type {
-  border-top: none;
-  padding-top: 0;
+  margin-top: 0.5rem;
+  padding-top: 0.5rem;
 }
 
 .event-line1 {

@@ -5,7 +5,8 @@ import EventCalendar from './components/EventCalendar.vue'
 <template>
   <div class="app">
     <header>
-      <h1>5Rhythms Workshop Calendar</h1>
+      <h1>Workshop Calendar</h1>
+      <img src="/5rhythms-horizontal-english-black-gold.svg" alt="5Rhythms" class="logo" />
     </header>
     <main>
       <EventCalendar />
@@ -21,14 +22,23 @@ import EventCalendar from './components/EventCalendar.vue'
 }
 
 header {
-  background: var(--bg-secondary);
-  padding: 1rem 2rem;
+  background: #000;
+  padding: 0 2rem;
   border-bottom: 1px solid var(--border-color);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 4rem;
 }
 
 header h1 {
   margin: 0;
   font-size: 1.5rem;
+  color: #fff;
+}
+
+.logo {
+  height: 4rem;
 }
 
 main {
@@ -38,11 +48,16 @@ main {
 
 @media (max-width: 768px) {
   header {
-    padding: 0.75rem 1rem;
+    padding: 0 1rem;
+    height: 3rem;
   }
 
   header h1 {
     font-size: 1.25rem;
+  }
+
+  .logo {
+    height: 3rem;
   }
 
   main {
@@ -52,11 +67,16 @@ main {
 
 @media (max-width: 480px) {
   header {
-    padding: 0.5rem;
+    padding: 0 0.5rem;
+    height: 2.5rem;
   }
 
   header h1 {
     font-size: 1rem;
+  }
+
+  .logo {
+    height: 2.5rem;
   }
 
   main {

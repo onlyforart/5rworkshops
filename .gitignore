@@ -1,0 +1,13 @@
+.DS_Store
+Thumbs.db
+
+.buildpath
+.project
+.settings/
+.build/
+.idea/
+public/
+nbproject/
+
+fetcher/node_modules/
+website/node_modules/

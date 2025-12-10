@@ -1,0 +1,13 @@
+{
+  "name": "5rhythms-event-fetcher",
+  "version": "1.0.0",
+  "description": "Fetch and parse 5Rhythms events from search results",
+  "main": "fetch-events.js",
+  "type": "module",
+  "scripts": {
+    "start": "node fetch-events.js"
+  },
+  "dependencies": {
+    "puppeteer": "^23.0.0"
+  }
+}

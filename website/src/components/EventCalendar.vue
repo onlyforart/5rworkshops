@@ -127,7 +127,7 @@ function getEventDates(event) {
   const endDate = to || from
   const daysDiff = Math.round((endDate - from) / (1000 * 60 * 60 * 24))
 
-  if (daysDiff > 14) {
+  if (daysDiff > 21) {
     // Only highlight first and last day for long events
     dates.push({
       date: new Date(from),

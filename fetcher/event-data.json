@@ -1,634 +1,10 @@
 [
   {
-    "name": "Moving towards Succes",
-    "url": "https://www.5rhythms.com/workshops/MovingtowardsSucces-288473",
-    "is_ondemand": true,
-    "date_from": "",
-    "date_to": "",
-    "teachers": [
-      {
-        "title": "Jup Jansonius",
-        "url": "https://www.5rhythms.com/teachers/Jup+Jansonius"
-      },
-      {
-        "title": "Mirjam Van Hasselt",
-        "url": "https://www.5rhythms.com/teachers/Mirjam+Van+Hasselt"
-      }
-    ],
-    "level": "Elective",
-    "city": "Amsterdam",
-    "country": "Netherlands",
-    "contact": {
-      "hasContactForm": true,
-      "teacherId": "288473",
-      "phone": "0031-6-81418018"
-    }
-  },
-  {
-    "name": "moving towards succes",
-    "url": "https://www.5rhythms.com/workshops/movingtowardssucces-288675",
-    "is_ondemand": true,
-    "date_from": "",
-    "date_to": "",
-    "teachers": [
-      {
-        "title": "Jup Jansonius",
-        "url": "https://www.5rhythms.com/teachers/Jup+Jansonius"
-      },
-      {
-        "title": "Mirjam Van Hasselt",
-        "url": "https://www.5rhythms.com/teachers/Mirjam+Van+Hasselt"
-      }
-    ],
-    "level": "Elective",
-    "city": "Amsterdam",
-    "country": "Netherlands",
-    "contact": {
-      "hasContactForm": true,
-      "teacherId": "288675",
-      "phone": "0031-6-81418018"
-    }
-  },
-  {
-    "name": "VIDA",
-    "url": "https://www.5rhythms.com/workshops/VIDA-289070",
-    "is_ondemand": true,
-    "date_from": "",
-    "date_to": "",
-    "teachers": [
-      {
-        "title": "Ana Escoda",
-        "url": "https://www.5rhythms.com/teachers/Ana+Escoda"
-      }
-    ],
-    "levels": [
-      {
-        "title": "Waves",
-        "url": "https://www.5rhythms.com/waves-circle/"
-      }
-    ],
-    "city": "Alava",
-    "country": "Spain",
-    "contact": {
-      "hasContactForm": true,
-      "teacherId": "289070",
-      "phone": "645884862"
-    }
-  },
-  {
-    "name": "HIPS-Staccato",
-    "url": "https://www.5rhythms.com/workshops/HIPSStaccato-289455",
-    "is_ondemand": true,
-    "date_from": "",
-    "date_to": "",
-    "teachers": [
-      {
-        "title": "Emma Leech",
-        "url": "https://www.5rhythms.com/teachers/Emma+Leech"
-      }
-    ],
-    "levels": [
-      {
-        "title": "Waves",
-        "url": "https://www.5rhythms.com/waves-circle/"
-      }
-    ],
-    "city": "East Sussex",
-    "country": "United Kingdom",
-    "contact": {
-      "hasContactForm": true,
-      "teacherId": "289455",
-      "phone": "+44 7984593276"
-    }
-  },
-  {
-    "name": "Symphony of Joy and Sorrow",
-    "url": "https://www.5rhythms.com/workshops/SymphonyofJoyandSorrow-289457",
-    "is_ondemand": true,
-    "date_from": "",
-    "date_to": "",
-    "teachers": [
-      {
-        "title": "Emma Leech",
-        "url": "https://www.5rhythms.com/teachers/Emma+Leech"
-      }
-    ],
-    "levels": [
-      {
-        "title": "Heartbeat",
-        "url": "https://www.5rhythms.com/heartbeat-circle/"
-      }
-    ],
-    "city": "Montpellier",
-    "country": "France",
-    "contact": {
-      "hasContactForm": true,
-      "teacherId": "289457",
-      "phone": "+ 33 641820323"
-    }
-  },
-  {
-    "name": "SADHANA WAVE",
-    "url": "https://www.5rhythms.com/workshops/SADHANAWAVE-289928",
-    "is_ondemand": true,
-    "date_from": "",
-    "date_to": "",
-    "teachers": [
-      {
-        "title": "Gina Espinosa",
-        "url": "https://www.5rhythms.com/teachers/Gina+Espinosa"
-      }
-    ],
-    "levels": [
-      {
-        "title": "Waves",
-        "url": "https://www.5rhythms.com/waves-circle/"
-      }
-    ],
-    "city": "Barcelona",
-    "country": "Spain",
-    "contact": {
-      "hasContactForm": true,
-      "teacherId": "289928",
-      "phone": "687859772"
-    }
-  },
-  {
-    "name": "Move to Manifest",
-    "url": "https://www.5rhythms.com/workshops/MovetoManifest-290685",
-    "is_ondemand": true,
-    "date_from": "",
-    "date_to": "",
-    "teachers": [
-      {
-        "title": "Jup Jansonius",
-        "url": "https://www.5rhythms.com/teachers/Jup+Jansonius"
-      }
-    ],
-    "level": "Elective",
-    "city": "Amsterdam",
-    "country": "Netherlands",
-    "contact": {
-      "hasContactForm": true,
-      "teacherId": "290685",
-      "phone": "0031-6-81418018"
-    }
-  },
-  {
-    "name": "Sadhana Wave + Journaling",
-    "url": "https://www.5rhythms.com/workshops/SadhanaWaveJournaling-291311",
-    "is_ondemand": true,
-    "date_from": "",
-    "date_to": "",
-    "teachers": [
-      {
-        "title": "Gina Espinosa",
-        "url": "https://www.5rhythms.com/teachers/Gina+Espinosa"
-      }
-    ],
-    "levels": [
-      {
-        "title": "Waves",
-        "url": "https://www.5rhythms.com/waves-circle/"
-      }
-    ],
-    "city": "Barcelona",
-    "country": "Spain",
-    "contact": {
-      "hasContactForm": true,
-      "teacherId": "291311",
-      "phone": "687859772"
-    }
-  },
-  {
-    "name": "Inner Wisdom",
-    "url": "https://www.5rhythms.com/workshops/InnerWisdom-291434",
-    "is_ondemand": true,
-    "date_from": "",
-    "date_to": "",
-    "teachers": [
-      {
-        "title": "Anouk Heike Maucher",
-        "url": "https://www.5rhythms.com/teachers/Anouk+Heike+Maucher"
-      }
-    ],
-    "levels": [
-      {
-        "title": "Waves",
-        "url": "https://www.5rhythms.com/waves-circle/"
-      }
-    ],
-    "city": "Freiburg",
-    "country": "Germany",
-    "contact": {
-      "hasContactForm": true,
-      "teacherId": "291434",
-      "phone": "0049 176 8141 1798"
-    }
-  },
-  {
-    "name": "5Rhythms - Stillness",
-    "url": "https://www.5rhythms.com/workshops/RhythmsStillness-291890",
-    "is_ondemand": true,
-    "date_from": "",
-    "date_to": "",
-    "teachers": [
-      {
-        "title": "Birgitte Rassmussen",
-        "url": "https://www.5rhythms.com/teachers/Birgitte+Rassmussen"
-      }
-    ],
-    "levels": [
-      {
-        "title": "Waves",
-        "url": "https://www.5rhythms.com/waves-circle/"
-      }
-    ],
-    "city": "Knebel",
-    "country": "Denmark",
-    "contact": {
-      "hasContactForm": true,
-      "teacherId": "291890",
-      "phone": "+45 26 27 14 71"
-    }
-  },
-  {
-    "name": "TRANSICIONES / TRANSITIONS - Online",
-    "url": "https://www.5rhythms.com/workshops/TRANSICIONESTRANSITIONSOnline-291451",
-    "is_ondemand": true,
-    "date_from": "",
-    "date_to": "",
-    "teachers": [
-      {
-        "title": "Irene Hernandez Sanchez",
-        "url": "https://www.5rhythms.com/teachers/Irene+Hernandez+Sanchez"
-      }
-    ],
-    "levels": [
-      {
-        "title": "Heartbeat",
-        "url": "https://www.5rhythms.com/heartbeat-circle/"
-      }
-    ],
-    "city": "Murcia",
-    "country": "Spain",
-    "contact": {
-      "hasContactForm": true,
-      "teacherId": "291451",
-      "phone": "+34651733875"
-    }
-  },
-  {
-    "name": "5 RHYTHMS GRIEF & LOSS",
-    "url": "https://www.5rhythms.com/workshops/RHYTHMSGRIEFLOSS-292748",
-    "is_ondemand": true,
-    "date_from": "",
-    "date_to": "",
-    "teachers": [
-      {
-        "title": "Suzie Craddock",
-        "url": "https://www.5rhythms.com/teachers/Suzie+Craddock"
-      }
-    ],
-    "levels": [
-      {
-        "title": "Waves",
-        "url": "https://www.5rhythms.com/waves-circle/"
-      }
-    ],
-    "city": "Perth",
-    "country": "Australia",
-    "contact": {
-      "hasContactForm": true,
-      "teacherId": "292748"
-    }
-  },
-  {
-    "name": "Ensoleille",
-    "url": "https://www.5rhythms.com/workshops/Ensoleille-292777",
-    "is_ondemand": true,
-    "date_from": "",
-    "date_to": "",
-    "teachers": [
-      {
-        "title": "Sarah Blagg",
-        "url": "https://www.5rhythms.com/teachers/Sarah+Blagg"
-      }
-    ],
-    "levels": [
-      {
-        "title": "Waves",
-        "url": "https://www.5rhythms.com/waves-circle/"
-      }
-    ],
-    "city": "Wakefield",
-    "country": "Canada",
-    "contact": {
-      "hasContactForm": true,
-      "teacherId": "292777",
-      "phone": "613-853-1148"
-    }
-  },
-  {
-    "name": "The power of dancing - 1,5 wave and 5 full days heartbeat",
-    "url": "https://www.5rhythms.com/workshops/Thepowerofdancingwaveandfulldaysheartbeat-291889",
-    "is_ondemand": true,
-    "date_from": "",
-    "date_to": "",
-    "teachers": [
-      {
-        "title": "Birgitte Rassmussen",
-        "url": "https://www.5rhythms.com/teachers/Birgitte+Rassmussen"
-      }
-    ],
-    "levels": [
-      {
-        "title": "Heartbeat",
-        "url": "https://www.5rhythms.com/heartbeat-circle/"
-      },
-      {
-        "title": "Waves",
-        "url": "https://www.5rhythms.com/waves-circle/"
-      }
-    ],
-    "city": "Knebel",
-    "country": "Denmark",
-    "contact": {
-      "hasContactForm": true,
-      "teacherId": "291889",
-      "phone": "+45 26 27 14 71"
-    }
-  },
-  {
-    "name": "WARRIOR",
-    "url": "https://www.5rhythms.com/workshops/WARRIOR-292630",
-    "is_ondemand": true,
-    "date_from": "",
-    "date_to": "",
-    "teachers": [
-      {
-        "title": "Catherine  Gaynor",
-        "url": "https://www.5rhythms.com/teachers/Catherine++Gaynor"
-      }
-    ],
-    "levels": [
-      {
-        "title": "Waves",
-        "url": "https://www.5rhythms.com/waves-circle/"
-      }
-    ],
-    "city": "Dublin",
-    "country": "Ireland",
-    "contact": {
-      "hasContactForm": true,
-      "teacherId": "292630",
-      "phone": "+353 87 257 2098"
-    }
-  },
-  {
-    "name": "Shadows and Light~A One Day Workshop",
-    "url": "https://www.5rhythms.com/workshops/ShadowsandLightAOneDayWorkshop-293869",
-    "is_ondemand": true,
-    "date_from": "",
-    "date_to": "",
-    "teachers": [
-      {
-        "title": "Debby Norton",
-        "url": "https://www.5rhythms.com/teachers/Debby+Norton"
-      }
-    ],
-    "levels": [
-      {
-        "title": "Waves",
-        "url": "https://www.5rhythms.com/waves-circle/"
-      }
-    ],
-    "city": "Charlottesville",
-    "country": "United States",
-    "contact": {
-      "hasContactForm": true,
-      "teacherId": "293869",
-      "phone": "4343272752"
-    }
-  },
-  {
-    "name": "TRANSICIONES / TRANSITIONS - Online",
-    "url": "https://www.5rhythms.com/workshops/TRANSICIONESTRANSITIONSOnline-294409",
-    "is_ondemand": true,
-    "date_from": "",
-    "date_to": "",
-    "teachers": [
-      {
-        "title": "Irene Hernandez Sanchez",
-        "url": "https://www.5rhythms.com/teachers/Irene+Hernandez+Sanchez"
-      }
-    ],
-    "levels": [
-      {
-        "title": "Heartbeat",
-        "url": "https://www.5rhythms.com/heartbeat-circle/"
-      }
-    ],
-    "city": "Murcia",
-    "country": "Spain",
-    "contact": {
-      "hasContactForm": true,
-      "teacherId": "294409",
-      "phone": "+34651733875"
-    }
-  },
-  {
-    "name": "FLUIR",
-    "url": "https://www.5rhythms.com/workshops/FLUIR-295189",
-    "is_ondemand": true,
-    "date_from": "",
-    "date_to": "",
-    "teachers": [
-      {
-        "title": "Ana Escoda",
-        "url": "https://www.5rhythms.com/teachers/Ana+Escoda"
-      }
-    ],
-    "levels": [
-      {
-        "title": "Waves",
-        "url": "https://www.5rhythms.com/waves-circle/"
-      }
-    ],
-    "city": "Navarra",
-    "country": "Spain",
-    "contact": {
-      "hasContactForm": true,
-      "teacherId": "295189",
-      "phone": "645884862"
-    }
-  },
-  {
-    "name": "INCORPORA RESISTENCIAS",
-    "url": "https://www.5rhythms.com/workshops/INCORPORARESISTENCIAS-295193",
-    "is_ondemand": true,
-    "date_from": "",
-    "date_to": "",
-    "teachers": [
-      {
-        "title": "Ana Escoda",
-        "url": "https://www.5rhythms.com/teachers/Ana+Escoda"
-      }
-    ],
-    "levels": [
-      {
-        "title": "Waves",
-        "url": "https://www.5rhythms.com/waves-circle/"
-      }
-    ],
-    "city": "Barcelona",
-    "country": "Spain",
-    "contact": {
-      "hasContactForm": true,
-      "teacherId": "295193",
-      "phone": "645884862"
-    }
-  },
-  {
-    "name": "workshop created by admin",
-    "url": "https://www.5rhythms.com/workshops/workshopcreatedbyadmin-295597",
-    "is_ondemand": true,
-    "date_from": "",
-    "date_to": "",
-    "teachers": [
-      {
-        "title": "Aaron Lifshin",
-        "url": "https://www.5rhythms.com/teachers/Aaron+Lifshin"
-      },
-      {
-        "title": "Kim Weis",
-        "url": "https://www.5rhythms.com/teachers/Kim+Weis"
-      }
-    ],
-    "levels": [
-      {
-        "title": "Heartbeat",
-        "url": "https://www.5rhythms.com/heartbeat-circle/"
-      }
-    ],
-    "city": "Homer",
-    "country": "United States",
-    "contact": {
-      "hasContactForm": true,
-      "teacherId": "295597",
-      "phone": "555-555-5555"
-    }
-  },
-  {
-    "name": "IMPULSO",
-    "url": "https://www.5rhythms.com/workshops/IMPULSO-295190",
-    "is_ondemand": true,
-    "date_from": "",
-    "date_to": "",
-    "teachers": [
-      {
-        "title": "Ana Escoda",
-        "url": "https://www.5rhythms.com/teachers/Ana+Escoda"
-      }
-    ],
-    "levels": [
-      {
-        "title": "Waves",
-        "url": "https://www.5rhythms.com/waves-circle/"
-      }
-    ],
-    "city": "Navarra",
-    "country": "Spain",
-    "contact": {
-      "hasContactForm": true,
-      "teacherId": "295190",
-      "phone": "645884862"
-    }
-  },
-  {
-    "name": "INCORPORA RESISTENCIAS",
-    "url": "https://www.5rhythms.com/workshops/INCORPORARESISTENCIAS-295194",
-    "is_ondemand": true,
-    "date_from": "",
-    "date_to": "",
-    "teachers": [
-      {
-        "title": "Ana Escoda",
-        "url": "https://www.5rhythms.com/teachers/Ana+Escoda"
-      }
-    ],
-    "levels": [
-      {
-        "title": "Waves",
-        "url": "https://www.5rhythms.com/waves-circle/"
-      }
-    ],
-    "city": "Barcelona",
-    "country": "Spain",
-    "contact": {
-      "hasContactForm": true,
-      "teacherId": "295194",
-      "phone": "645884862"
-    }
-  },
-  {
-    "name": "LUZ en NUESTRA SOMBRA",
-    "url": "https://www.5rhythms.com/workshops/LUZenNUESTRASOMBRA-295191",
-    "is_ondemand": true,
-    "date_from": "",
-    "date_to": "",
-    "teachers": [
-      {
-        "title": "Ana Escoda",
-        "url": "https://www.5rhythms.com/teachers/Ana+Escoda"
-      }
-    ],
-    "levels": [
-      {
-        "title": "Waves",
-        "url": "https://www.5rhythms.com/waves-circle/"
-      }
-    ],
-    "city": "Alava",
-    "country": "Spain",
-    "contact": {
-      "hasContactForm": true,
-      "teacherId": "295191",
-      "phone": "645884862"
-    }
-  },
-  {
-    "name": "INCORPORA RESISTENCIAS",
-    "url": "https://www.5rhythms.com/workshops/INCORPORARESISTENCIAS-295905",
-    "is_ondemand": true,
-    "date_from": "",
-    "date_to": "",
-    "teachers": [
-      {
-        "title": "Ana Escoda",
-        "url": "https://www.5rhythms.com/teachers/Ana+Escoda"
-      }
-    ],
-    "levels": [
-      {
-        "title": "Waves",
-        "url": "https://www.5rhythms.com/waves-circle/"
-      }
-    ],
-    "city": "Barcelona",
-    "country": "Spain",
-    "contact": {
-      "hasContactForm": true,
-      "teacherId": "295905",
-      "phone": "645884862"
-    }
-  },
-  {
     "name": "HACIA DENTRO",
     "url": "https://www.5rhythms.com/workshops/HACIADENTRO-295902",
-    "is_ondemand": true,
-    "date_from": "",
-    "date_to": "",
+    "is_ondemand": false,
+    "date_from": "250920",
+    "date_to": "260228",
     "teachers": [
       {
         "title": "Ana Escoda",
@@ -647,58 +23,6 @@
       "hasContactForm": true,
       "teacherId": "295902",
       "phone": "645884862"
-    }
-  },
-  {
-    "name": "heartbeat - Die Bewegung der Gefühle / The movement of emotions",
-    "url": "https://www.5rhythms.com/workshops/heartbeatDieBewegungderGefhleThemovementofemotions-295770",
-    "is_ondemand": true,
-    "date_from": "",
-    "date_to": "",
-    "teachers": [
-      {
-        "title": "Susanna Dobos",
-        "url": "https://www.5rhythms.com/teachers/Susanna+Dobos"
-      }
-    ],
-    "levels": [
-      {
-        "title": "Heartbeat",
-        "url": "https://www.5rhythms.com/heartbeat-circle/"
-      }
-    ],
-    "city": "Aarau",
-    "country": "Switzerland",
-    "contact": {
-      "hasContactForm": true,
-      "teacherId": "295770",
-      "phone": "0041 (0) 79 457 87 57"
-    }
-  },
-  {
-    "name": "LA PRESENCIA",
-    "url": "https://www.5rhythms.com/workshops/LAPRESENCIA-296356",
-    "is_ondemand": true,
-    "date_from": "",
-    "date_to": "",
-    "teachers": [
-      {
-        "title": "Beatriz Sánchez",
-        "url": "https://www.5rhythms.com/teachers/Beatriz+S%C3%A1nchez"
-      }
-    ],
-    "levels": [
-      {
-        "title": "Waves",
-        "url": "https://www.5rhythms.com/waves-circle/"
-      }
-    ],
-    "city": "Valencia",
-    "country": "Spain",
-    "contact": {
-      "hasContactForm": true,
-      "teacherId": "296356",
-      "phone": "679042609"
     }
   },
   {
@@ -938,9 +262,9 @@
   {
     "name": "Connection",
     "url": "https://www.5rhythms.com/workshops/Connection-296842",
-    "is_ondemand": true,
-    "date_from": "",
-    "date_to": "",
+    "is_ondemand": false,
+    "date_from": "251213",
+    "date_to": "251214",
     "teachers": [
       {
         "title": "Tineke de Wit",
@@ -1227,9 +551,9 @@
   {
     "name": "AbunDance Online Workshop",
     "url": "https://www.5rhythms.com/workshops/AbunDanceOnlineWorkshop-296045",
-    "is_ondemand": true,
-    "date_from": "",
-    "date_to": "",
+    "is_ondemand": false,
+    "date_from": "251217",
+    "date_to": "260307",
     "teachers": [
       {
         "title": "Eliza Bouwens",
@@ -2564,32 +1888,6 @@
   },
   {
     "name": "New Year's Eve Dance",
-    "url": "https://www.5rhythms.com/workshops/NewYearsEveDance-296875",
-    "is_ondemand": false,
-    "date_from": "251231",
-    "date_to": "260101",
-    "teachers": [
-      {
-        "title": "Irem Luqman",
-        "url": "https://www.5rhythms.com/teachers/Irem+Luqman"
-      }
-    ],
-    "levels": [
-      {
-        "title": "Waves",
-        "url": "https://www.5rhythms.com/waves-circle/"
-      }
-    ],
-    "city": "London",
-    "country": "United Kingdom",
-    "contact": {
-      "hasContactForm": true,
-      "teacherId": "296875",
-      "phone": "0044(0)7584040414"
-    }
-  },
-  {
-    "name": "New Year's Eve Dance",
     "url": "https://www.5rhythms.com/workshops/NewYearsEveDance-296843",
     "is_ondemand": false,
     "date_from": "251231",
@@ -2612,6 +1910,32 @@
       "hasContactForm": true,
       "teacherId": "296843",
       "phone": "+36304752394"
+    }
+  },
+  {
+    "name": "New Year's Eve Dance",
+    "url": "https://www.5rhythms.com/workshops/NewYearsEveDance-296875",
+    "is_ondemand": false,
+    "date_from": "251231",
+    "date_to": "260101",
+    "teachers": [
+      {
+        "title": "Irem Luqman",
+        "url": "https://www.5rhythms.com/teachers/Irem+Luqman"
+      }
+    ],
+    "levels": [
+      {
+        "title": "Waves",
+        "url": "https://www.5rhythms.com/waves-circle/"
+      }
+    ],
+    "city": "London",
+    "country": "United Kingdom",
+    "contact": {
+      "hasContactForm": true,
+      "teacherId": "296875",
+      "phone": "0044(0)7584040414"
     }
   },
   {
@@ -2720,6 +2044,31 @@
       "hasContactForm": true,
       "teacherId": "296903",
       "phone": "+4369910617055"
+    }
+  },
+  {
+    "name": "Articulate ...to begin",
+    "url": "https://www.5rhythms.com/workshops/Articulatetobegin-297014",
+    "is_ondemand": false,
+    "date_from": "260103",
+    "date_to": "260103",
+    "teachers": [
+      {
+        "title": "Sarena Wolfaard",
+        "url": "https://www.5rhythms.com/teachers/Sarena+Wolfaard"
+      }
+    ],
+    "levels": [
+      {
+        "title": "Waves",
+        "url": "https://www.5rhythms.com/waves-circle/"
+      }
+    ],
+    "city": "Edinburgh",
+    "country": "United Kingdom",
+    "contact": {
+      "hasContactForm": true,
+      "teacherId": "297014"
     }
   },
   {
@@ -4358,6 +3707,32 @@
     }
   },
   {
+    "name": "New Beginnings",
+    "url": "https://www.5rhythms.com/workshops/NewBeginnings-297015",
+    "is_ondemand": false,
+    "date_from": "260206",
+    "date_to": "260208",
+    "teachers": [
+      {
+        "title": "Arjan Bouw",
+        "url": "https://www.5rhythms.com/teachers/Arjan+Bouw"
+      }
+    ],
+    "levels": [
+      {
+        "title": "Waves",
+        "url": "https://www.5rhythms.com/waves-circle/"
+      }
+    ],
+    "city": "Barcelona",
+    "country": "Spain",
+    "contact": {
+      "hasContactForm": true,
+      "teacherId": "297015",
+      "phone": "0031-642 657 593"
+    }
+  },
+  {
     "name": "Still Dancing",
     "url": "https://www.5rhythms.com/workshops/StillDancing-296246",
     "is_ondemand": false,
@@ -4938,6 +4313,32 @@
     }
   },
   {
+    "name": "Element",
+    "url": "https://www.5rhythms.com/workshops/Element-297016",
+    "is_ondemand": false,
+    "date_from": "260220",
+    "date_to": "260222",
+    "teachers": [
+      {
+        "title": "Arjan Bouw",
+        "url": "https://www.5rhythms.com/teachers/Arjan+Bouw"
+      }
+    ],
+    "levels": [
+      {
+        "title": "Waves",
+        "url": "https://www.5rhythms.com/waves-circle/"
+      }
+    ],
+    "city": "Arnhem",
+    "country": "Netherlands",
+    "contact": {
+      "hasContactForm": true,
+      "teacherId": "297016",
+      "phone": "0031-642 657 593"
+    }
+  },
+  {
     "name": "다시 나로! 돌아가는 시간",
     "url": "https://www.5rhythms.com/workshops/-296919",
     "is_ondemand": false,
@@ -5415,9 +4816,9 @@
   {
     "name": "SOLEDAD",
     "url": "https://www.5rhythms.com/workshops/SOLEDAD-296357",
-    "is_ondemand": true,
-    "date_from": "",
-    "date_to": "",
+    "is_ondemand": false,
+    "date_from": "260308",
+    "date_to": "260308",
     "teachers": [
       {
         "title": "Beatriz Sánchez",
@@ -7007,6 +6408,36 @@
     }
   },
   {
+    "name": "The Ego Show",
+    "url": "https://www.5rhythms.com/workshops/TheEgoShow-297017",
+    "is_ondemand": false,
+    "date_from": "260430",
+    "date_to": "260503",
+    "teachers": [
+      {
+        "title": "Arjan Bouw",
+        "url": "https://www.5rhythms.com/teachers/Arjan+Bouw"
+      }
+    ],
+    "levels": [
+      {
+        "title": "Heartbeat",
+        "url": "https://www.5rhythms.com/heartbeat-circle/"
+      },
+      {
+        "title": "Waves",
+        "url": "https://www.5rhythms.com/waves-circle/"
+      }
+    ],
+    "city": "La Coruna",
+    "country": "Spain",
+    "contact": {
+      "hasContactForm": true,
+      "teacherId": "297017",
+      "phone": "0031-642 657 593"
+    }
+  },
+  {
     "name": "Annual Spring Gathering",
     "url": "https://www.5rhythms.com/workshops/AnnualSpringGathering-296829",
     "is_ondemand": false,
@@ -7193,9 +6624,9 @@
   {
     "name": "DANZA TU PODER: DECIDE",
     "url": "https://www.5rhythms.com/workshops/DANZATUPODERDECIDE-296358",
-    "is_ondemand": true,
-    "date_from": "",
-    "date_to": "",
+    "is_ondemand": false,
+    "date_from": "260510",
+    "date_to": "260510",
     "teachers": [
       {
         "title": "Beatriz Sánchez",
@@ -7330,6 +6761,32 @@
       "hasContactForm": true,
       "teacherId": "296661",
       "phone": "0031646417977"
+    }
+  },
+  {
+    "name": "Wild & Tender",
+    "url": "https://www.5rhythms.com/workshops/WildTender-297018",
+    "is_ondemand": false,
+    "date_from": "260514",
+    "date_to": "260517",
+    "teachers": [
+      {
+        "title": "Arjan Bouw",
+        "url": "https://www.5rhythms.com/teachers/Arjan+Bouw"
+      }
+    ],
+    "levels": [
+      {
+        "title": "Waves",
+        "url": "https://www.5rhythms.com/waves-circle/"
+      }
+    ],
+    "city": "Deventer",
+    "country": "Netherlands",
+    "contact": {
+      "hasContactForm": true,
+      "teacherId": "297018",
+      "phone": "0031-642 657 593"
     }
   },
   {
@@ -8371,12 +7828,7 @@
         "url": "https://www.5rhythms.com/teachers/Emma+Leech"
       }
     ],
-    "levels": [
-      {
-        "title": "God, Sex and the Body",
-        "url": "https://www.5rhythms.com/waves-circle/"
-      }
-    ],
+    "level": "God, Sex and the Body",
     "city": "London",
     "country": "United Kingdom",
     "contact": {
@@ -8501,6 +7953,32 @@
     }
   },
   {
+    "name": "Into the Flow",
+    "url": "https://www.5rhythms.com/workshops/IntotheFlow-297019",
+    "is_ondemand": false,
+    "date_from": "260727",
+    "date_to": "260801",
+    "teachers": [
+      {
+        "title": "Arjan Bouw",
+        "url": "https://www.5rhythms.com/teachers/Arjan+Bouw"
+      }
+    ],
+    "levels": [
+      {
+        "title": "Waves",
+        "url": "https://www.5rhythms.com/waves-circle/"
+      }
+    ],
+    "city": "Cahors",
+    "country": "France",
+    "contact": {
+      "hasContactForm": true,
+      "teacherId": "297019",
+      "phone": "0031-642 657 593"
+    }
+  },
+  {
     "name": "Arctic Adventure",
     "url": "https://www.5rhythms.com/workshops/ArcticAdventure-297007",
     "is_ondemand": false,
@@ -8533,9 +8011,9 @@
   {
     "name": "5RHYTHMS dancing JOURNEY through HIMALAYAS",
     "url": "https://www.5rhythms.com/workshops/RHYTHMSdancingJOURNEYthroughHIMALAYAS-296863",
-    "is_ondemand": true,
-    "date_from": "",
-    "date_to": "",
+    "is_ondemand": false,
+    "date_from": "260803",
+    "date_to": "260818",
     "teachers": [
       {
         "title": "Violeta Valenzuela",

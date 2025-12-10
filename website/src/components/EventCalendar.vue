@@ -470,6 +470,7 @@ function showTooltip(event, date, dayEvents, pinned = false) {
     date: d3.timeFormat('%B %d, %Y')(date),
     events: filteredEvents.map(e => ({
       name: e.event.name,
+      url: e.event.url || '',
       level: e.level,
       teachers: getTeacherNames(e.event),
       duration: getEventDuration(e.event),
@@ -662,7 +663,8 @@ onUnmounted(() => {
           </div>
           <div class="event-line2">
             <span v-if="evt.country" class="event-country">{{ evt.country }}</span>
-            <span class="event-name">{{ evt.name }}</span>
+            <a v-if="evt.url" :href="evt.url" target="_blank" rel="noopener noreferrer" class="event-name">{{ evt.name }}</a>
+            <span v-else class="event-name">{{ evt.name }}</span>
           </div>
         </div>
       </div>
@@ -901,5 +903,14 @@ onUnmounted(() => {
 .event-name {
   opacity: 0.8;
   font-style: italic;
+}
+
+a.event-name {
+  color: var(--text-secondary);
+  text-decoration: underline;
+}
+
+a.event-name:hover {
+  color: var(--text-primary);
 }
 </style>

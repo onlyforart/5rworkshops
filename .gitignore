@@ -6,7 +6,6 @@ Thumbs.db
 .settings/
 .build/
 .idea/
-public/
 nbproject/
 
 fetcher/node_modules/

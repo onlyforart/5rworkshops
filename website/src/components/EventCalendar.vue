@@ -1,5 +1,5 @@
 <script setup>
-import { ref, onMounted, computed } from 'vue'
+import { ref, onMounted, onUnmounted, computed } from 'vue'
 import * as d3 from 'd3'
 
 const events = ref([])
@@ -323,8 +323,8 @@ function renderCalendar() {
       .attr('fill', 'var(--text-primary)')
       .text(year)
 
-    // Day labels
-    const days = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat']
+    // Day labels (Monday first)
+    const days = ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun']
     days.forEach((day, i) => {
       yearGroup.append('text')
         .attr('x', -5)
@@ -346,14 +346,15 @@ function renderCalendar() {
       const dayEvents = eventsByDate.value.get(key)
       const levels = getLevelsForDay(dayEvents)
       const eventCounts = getEventCountsByLevel(dayEvents)
-      const x = d3.timeWeek.count(d3.timeYear(d), d) * cellWidth
-      const y = d.getDay() * cellHeight
+      const x = d3.timeMonday.count(d3.timeYear(d), d) * cellWidth
+      // Convert getDay() (0=Sun, 1=Mon, ..., 6=Sat) to Monday-first (0=Mon, ..., 6=Sun)
+      const y = ((d.getDay() + 6) % 7) * cellHeight
 
       const dayGroup = yearGroup.append('g')
         .attr('class', 'day-group')
         .style('cursor', dayEvents ? 'pointer' : 'default')
         .on('mouseover', function(event) {
-          if (dayEvents) {
+          if (dayEvents && !tooltipPinned.value) {
             d3.select(this).select('rect.day-bg')
               .attr('stroke', 'var(--text-primary)')
               .attr('stroke-width', 2)
@@ -361,10 +362,21 @@ function renderCalendar() {
           }
         })
         .on('mouseout', function() {
-          d3.select(this).select('rect.day-bg')
-            .attr('stroke', 'var(--bg-secondary)')
-            .attr('stroke-width', 1)
+          // Don't reset highlight if this is the pinned cell
+          if (pinnedCellElement.value !== this) {
+            d3.select(this).select('rect.day-bg')
+              .attr('stroke', 'var(--bg-secondary)')
+              .attr('stroke-width', 1)
+          }
           hideTooltip()
+        })
+        .on('click', function(event) {
+          if (dayEvents) {
+            d3.select(this).select('rect.day-bg')
+              .attr('stroke', 'var(--text-primary)')
+              .attr('stroke-width', 2)
+            pinTooltip(event, d, dayEvents)
+          }
         })
 
       // Background rect
@@ -416,7 +428,7 @@ function renderCalendar() {
       .data(months)
       .join('text')
       .attr('class', 'month')
-      .attr('x', d => d3.timeWeek.count(d3.timeYear(d), d) * cellWidth + 2)
+      .attr('x', d => d3.timeMonday.count(d3.timeYear(d), d) * cellWidth + 2)
       .attr('y', -5)
       .attr('font-size', '9px')
       .attr('fill', 'var(--text-secondary)')
@@ -428,6 +440,8 @@ function renderCalendar() {
 const tooltip = ref(null)
 const tooltipContent = ref({ date: '', events: [] })
 const tooltipStyle = ref({ left: '0px', top: '0px', display: 'none' })
+const tooltipPinned = ref(false)
+const pinnedCellElement = ref(null)
 
 // Calculate event duration in days
 function getEventDuration(event) {
@@ -444,7 +458,10 @@ function getTeacherNames(event) {
   return event.teachers.map(t => t.title).join(', ')
 }
 
-function showTooltip(event, date, dayEvents) {
+function showTooltip(event, date, dayEvents, pinned = false) {
+  // Don't show hover tooltips if one is pinned
+  if (tooltipPinned.value && !pinned) return
+
   // Filter events by selected levels
   const filteredEvents = dayEvents.filter(e => selectedLevels.value.has(e.level))
   if (filteredEvents.length === 0) return
@@ -477,13 +494,61 @@ function showTooltip(event, date, dayEvents) {
     top: `${rect.top + window.scrollY}px`,
     display: 'block'
   }
+
+  if (pinned) {
+    tooltipPinned.value = true
+    pinnedCellElement.value = event.currentTarget
+  }
 }
 
-function hideTooltip() {
+function hideTooltip(force = false) {
+  // Don't hide if pinned unless forced
+  if (tooltipPinned.value && !force) return
   tooltipStyle.value.display = 'none'
+  tooltipPinned.value = false
+  // Reset the pinned cell highlight
+  if (pinnedCellElement.value) {
+    d3.select(pinnedCellElement.value).select('rect.day-bg')
+      .attr('stroke', 'var(--bg-secondary)')
+      .attr('stroke-width', 1)
+    pinnedCellElement.value = null
+  }
+}
+
+function pinTooltip(event, date, dayEvents) {
+  // If clicking the same cell that's already pinned, unpin it
+  if (tooltipPinned.value && pinnedCellElement.value === event.currentTarget) {
+    hideTooltip(true)
+    return
+  }
+
+  // If another cell was pinned, reset its highlight
+  if (pinnedCellElement.value) {
+    d3.select(pinnedCellElement.value).select('rect.day-bg')
+      .attr('stroke', 'var(--bg-secondary)')
+      .attr('stroke-width', 1)
+  }
+
+  showTooltip(event, date, dayEvents, true)
+}
+
+// Handle clicks outside the tooltip to dismiss it
+function handleDocumentClick(event) {
+  if (!tooltipPinned.value) return
+
+  const tooltipEl = tooltip.value
+  const clickedOnTooltip = tooltipEl && tooltipEl.contains(event.target)
+  const clickedOnCell = event.target.closest('.day-group')
+
+  if (!clickedOnTooltip && !clickedOnCell) {
+    hideTooltip(true)
+  }
 }
 
 onMounted(async () => {
+  // Add document click listener for dismissing pinned tooltips
+  document.addEventListener('click', handleDocumentClick)
+
   try {
     const response = await fetch('/data/event-data.json')
     if (!response.ok) throw new Error('Failed to load event data')
@@ -510,6 +575,10 @@ onMounted(async () => {
     error.value = e.message
     loading.value = false
   }
+})
+
+onUnmounted(() => {
+  document.removeEventListener('click', handleDocumentClick)
 })
 </script>
 
@@ -574,7 +643,9 @@ onMounted(async () => {
       </div>
 
       <div
+        ref="tooltip"
         class="tooltip"
+        :class="{ pinned: tooltipPinned }"
         :style="tooltipStyle"
       >
         <div class="tooltip-date">{{ tooltipContent.date }}</div>
@@ -602,6 +673,7 @@ onMounted(async () => {
 <style scoped>
 .event-calendar {
   padding: 1rem;
+  margin-bottom: 400px;
 }
 
 .loading, .error {
@@ -754,6 +826,11 @@ onMounted(async () => {
   z-index: 1000;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
   pointer-events: none;
+}
+
+.tooltip.pinned {
+  pointer-events: auto;
+  border-color: var(--text-primary);
 }
 
 .tooltip-date {

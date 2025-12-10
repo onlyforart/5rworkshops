@@ -352,9 +352,9 @@ function renderCalendar() {
 
       const dayGroup = yearGroup.append('g')
         .attr('class', 'day-group')
-        .style('cursor', dayEvents ? 'pointer' : 'default')
+        .style('cursor', 'pointer')
         .on('mouseover', function(event) {
-          if (dayEvents && !tooltipPinned.value) {
+          if (!tooltipPinned.value) {
             d3.select(this).select('rect.day-bg')
               .attr('stroke', 'var(--text-primary)')
               .attr('stroke-width', 2)
@@ -371,12 +371,10 @@ function renderCalendar() {
           hideTooltip()
         })
         .on('click', function(event) {
-          if (dayEvents) {
-            d3.select(this).select('rect.day-bg')
-              .attr('stroke', 'var(--text-primary)')
-              .attr('stroke-width', 2)
-            pinTooltip(event, d, dayEvents)
-          }
+          d3.select(this).select('rect.day-bg')
+            .attr('stroke', 'var(--text-primary)')
+            .attr('stroke-width', 2)
+          pinTooltip(event, d, dayEvents)
         })
 
       // Background rect
@@ -463,8 +461,7 @@ function showTooltip(event, date, dayEvents, pinned = false) {
   if (tooltipPinned.value && !pinned) return
 
   // Filter events by selected levels
-  const filteredEvents = dayEvents.filter(e => selectedLevels.value.has(e.level))
-  if (filteredEvents.length === 0) return
+  const filteredEvents = dayEvents ? dayEvents.filter(e => selectedLevels.value.has(e.level)) : []
 
   tooltipContent.value = {
     date: d3.timeFormat('%B %d, %Y')(date),
@@ -488,12 +485,22 @@ function showTooltip(event, date, dayEvents, pinned = false) {
   // Check if tooltip would go off the right edge of the screen
   const wouldOverflowRight = rect.right + 10 + tooltipWidth > viewportWidth
 
-  tooltipStyle.value = {
-    left: wouldOverflowRight
-      ? `${rect.left + window.scrollX - tooltipWidth - 10}px`
-      : `${rect.right + window.scrollX + 10}px`,
-    top: `${rect.top + window.scrollY}px`,
-    display: 'block'
+  if (wouldOverflowRight) {
+    // Position to the left of the cell, right-aligned to be adjacent
+    tooltipStyle.value = {
+      right: `${viewportWidth - rect.left + 10 - window.scrollX}px`,
+      left: 'auto',
+      top: `${rect.top + window.scrollY}px`,
+      display: 'block'
+    }
+  } else {
+    // Position to the right of the cell
+    tooltipStyle.value = {
+      left: `${rect.right + window.scrollX + 10}px`,
+      right: 'auto',
+      top: `${rect.top + window.scrollY}px`,
+      display: 'block'
+    }
   }
 
   if (pinned) {
@@ -649,7 +656,7 @@ onUnmounted(() => {
         :class="{ pinned: tooltipPinned }"
         :style="tooltipStyle"
       >
-        <div class="tooltip-date">{{ tooltipContent.date }}</div>
+        <div class="tooltip-date" @click="hideTooltip(true)">{{ tooltipContent.date }}</div>
         <div
           v-for="(evt, idx) in tooltipContent.events"
           :key="idx"
@@ -833,6 +840,14 @@ onUnmounted(() => {
 .tooltip.pinned {
   pointer-events: auto;
   border-color: var(--text-primary);
+}
+
+.tooltip.pinned .tooltip-date {
+  cursor: pointer;
+}
+
+.tooltip.pinned .tooltip-date:hover {
+  color: var(--accent-color);
 }
 
 .tooltip-date {

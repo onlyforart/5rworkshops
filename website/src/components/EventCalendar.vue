@@ -313,10 +313,10 @@ function renderCalendar() {
     const yearGroup = svg.append('g')
       .attr('transform', `translate(40, ${yearIndex * yearHeight + 20})`)
 
-    // Year label
+    // Year label (positioned above Mon label)
     yearGroup.append('text')
       .attr('x', -35)
-      .attr('y', cellHeight * 3.5)
+      .attr('y', cellHeight * 0.2)
       .attr('text-anchor', 'start')
       .attr('font-size', '12px')
       .attr('font-weight', 'bold')

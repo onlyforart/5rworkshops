@@ -104,15 +104,33 @@ function parseDate(dateStr) {
   return new Date(year, month, day)
 }
 
-// Get primary level from event
+// Get primary level from event (for color coding)
+// Uses the highest level (last in levelOrder) for color coding
 function getPrimaryLevel(event) {
   if (event.levels && event.levels.length > 0) {
-    return event.levels[0].title
+    const sortedLevels = event.levels
+      .map(l => l.title)
+      .sort((a, b) => levelOrder.indexOf(a) - levelOrder.indexOf(b))
+    return sortedLevels[sortedLevels.length - 1]
   }
   if (event.level) {
     return event.level
   }
   return 'Unknown'
+}
+
+// Get all levels from event (for filtering)
+// Sorted by levelOrder
+function getEventLevels(event) {
+  if (event.levels && event.levels.length > 0) {
+    return event.levels
+      .map(l => l.title)
+      .sort((a, b) => levelOrder.indexOf(a) - levelOrder.indexOf(b))
+  }
+  if (event.level) {
+    return [event.level]
+  }
+  return ['Unknown']
 }
 
 // Get all dates for an event (from date_from to date_to)
@@ -127,18 +145,23 @@ function getEventDates(event) {
   const endDate = to || from
   const daysDiff = Math.round((endDate - from) / (1000 * 60 * 60 * 24))
 
+  const primaryLevel = getPrimaryLevel(event)
+  const allLevels = getEventLevels(event)
+
   if (daysDiff > 21) {
     // Only highlight first and last day for long events
     dates.push({
       date: new Date(from),
       event: event,
-      level: getPrimaryLevel(event)
+      level: primaryLevel,
+      allLevels: allLevels
     })
     if (endDate > from) {
       dates.push({
         date: new Date(endDate),
         event: event,
-        level: getPrimaryLevel(event)
+        level: primaryLevel,
+        allLevels: allLevels
       })
     }
   } else {
@@ -148,7 +171,8 @@ function getEventDates(event) {
       dates.push({
         date: new Date(current),
         event: event,
-        level: getPrimaryLevel(event)
+        level: primaryLevel,
+        allLevels: allLevels
       })
       current.setDate(current.getDate() + 1)
     }
@@ -165,12 +189,12 @@ const eventsByDate = computed(() => {
     .filter(e => !e.is_ondemand && e.date_from)
     .filter(e => selectedContinents.value.has(getContinent(e)))
     .forEach(event => {
-      getEventDates(event).forEach(({ date, level }) => {
+      getEventDates(event).forEach(({ date, level, allLevels }) => {
         const key = d3.timeFormat('%Y-%m-%d')(date)
         if (!map.has(key)) {
           map.set(key, [])
         }
-        map.get(key).push({ event, level })
+        map.get(key).push({ event, level, allLevels })
       })
     })
 
@@ -203,19 +227,24 @@ const unmappedCountries = computed(() => {
 })
 
 // Get unique levels for a day, sorted by levelOrder, filtered by selection
+// Only include the primary level if any of the event's levels are selected
 function getLevelsForDay(dayEvents) {
   if (!dayEvents) return []
-  const levels = [...new Set(dayEvents.map(e => e.level))]
-    .filter(level => selectedLevels.value.has(level))
+  const levels = [...new Set(
+    dayEvents
+      .filter(e => e.allLevels.some(level => selectedLevels.value.has(level)))
+      .map(e => e.level)
+  )]
   return levels.sort((a, b) => levelOrder.indexOf(a) - levelOrder.indexOf(b))
 }
 
 // Get count of events per level for a day
+// Count an event if any of its levels are selected
 function getEventCountsByLevel(dayEvents) {
   if (!dayEvents) return {}
   const counts = {}
   dayEvents.forEach(e => {
-    if (selectedLevels.value.has(e.level)) {
+    if (e.allLevels.some(level => selectedLevels.value.has(level))) {
       counts[e.level] = (counts[e.level] || 0) + 1
     }
   })
@@ -450,18 +479,29 @@ function getEventDuration(event) {
   return Math.round((endDate - from) / (1000 * 60 * 60 * 24)) + 1
 }
 
-// Get teacher names as comma-separated string
-function getTeacherNames(event) {
-  if (!event.teachers || event.teachers.length === 0) return ''
-  return event.teachers.map(t => t.title).join(', ')
+// Get teachers array with title and url
+function getTeachers(event) {
+  if (!event.teachers || event.teachers.length === 0) return []
+  return event.teachers.map(t => ({ title: t.title, url: t.url || '' }))
+}
+
+// Get all levels from event's levels array (not the single level field)
+// Sorted by levelOrder
+function getAllLevels(event) {
+  if (event.levels && event.levels.length > 0) {
+    return event.levels
+      .map(l => l.title)
+      .sort((a, b) => levelOrder.indexOf(a) - levelOrder.indexOf(b))
+  }
+  return []
 }
 
 function showTooltip(event, date, dayEvents, pinned = false) {
   // Don't show hover tooltips if one is pinned
   if (tooltipPinned.value && !pinned) return
 
-  // Filter events by selected levels
-  const filteredEvents = dayEvents ? dayEvents.filter(e => selectedLevels.value.has(e.level)) : []
+  // Filter events - include if any of the event's levels are selected
+  const filteredEvents = dayEvents ? dayEvents.filter(e => e.allLevels.some(level => selectedLevels.value.has(level))) : []
 
   tooltipContent.value = {
     date: d3.timeFormat('%B %d, %Y')(date),
@@ -469,7 +509,8 @@ function showTooltip(event, date, dayEvents, pinned = false) {
       name: e.event.name,
       url: e.event.url || '',
       level: e.level,
-      teachers: getTeacherNames(e.event),
+      levels: getAllLevels(e.event),
+      teachers: getTeachers(e.event),
       duration: getEventDuration(e.event),
       country: e.event.country || '',
       color: levelColors[e.level] || '#718096'
@@ -665,8 +706,14 @@ onUnmounted(() => {
           <div class="event-line1">
             <span class="event-dot" :style="{ backgroundColor: evt.color }"></span>
             <span class="event-duration">{{ evt.duration }}d</span>
-            <span class="event-level">{{ evt.level }}</span>
-            <span v-if="evt.teachers" class="event-teachers">{{ evt.teachers }}</span>
+            <span class="event-level">{{ evt.levels.length > 0 ? evt.levels.join(', ') : evt.level }}</span>
+            <span v-if="evt.teachers.length" class="event-teachers">
+              <template v-for="(teacher, tidx) in evt.teachers" :key="tidx">
+                <a v-if="teacher.url" :href="teacher.url" target="_blank" rel="noopener noreferrer" class="teacher-link">{{ teacher.title }}</a>
+                <span v-else>{{ teacher.title }}</span>
+                <span v-if="tidx < evt.teachers.length - 1">, </span>
+              </template>
+            </span>
           </div>
           <div class="event-line2">
             <span v-if="evt.country" class="event-country">{{ evt.country }}</span>
@@ -889,6 +936,15 @@ onUnmounted(() => {
   overflow: hidden;
   text-overflow: ellipsis;
   color: var(--text-secondary);
+}
+
+.teacher-link {
+  color: var(--text-secondary);
+  text-decoration: underline;
+}
+
+.teacher-link:hover {
+  color: var(--text-primary);
 }
 
 .event-duration {

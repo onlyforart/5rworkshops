@@ -38,7 +38,8 @@ header h1 {
 }
 
 .logo {
-  height: 4rem;
+  height: calc(4rem - 2px);
+  margin: 1px 0;
 }
 
 main {
@@ -57,7 +58,7 @@ main {
   }
 
   .logo {
-    height: 3rem;
+    height: calc(3rem - 2px);
   }
 
   main {
@@ -76,7 +77,7 @@ main {
   }
 
   .logo {
-    height: 2.5rem;
+    height: calc(2.5rem - 2px);
   }
 
   main {

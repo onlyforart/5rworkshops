@@ -1,5 +1,26 @@
 <script setup>
+import { ref, computed } from 'vue'
 import EventCalendar from './components/EventCalendar.vue'
+
+const fetchedAt = ref(null)
+
+function onMetadataLoaded(metadata) {
+  fetchedAt.value = metadata.fetchedAt
+}
+
+const formattedFetchedAt = computed(() => {
+  if (!fetchedAt.value) return ''
+  const date = new Date(fetchedAt.value)
+  const options = {
+    day: 'numeric',
+    month: 'short',
+    year: 'numeric',
+    hour: '2-digit',
+    minute: '2-digit',
+    timeZone: 'UTC'
+  }
+  return date.toLocaleString(undefined, options) + ' UTC'
+})
 </script>
 
 <template>
@@ -7,9 +28,10 @@ import EventCalendar from './components/EventCalendar.vue'
     <header>
       <h1>Workshop Calendar</h1>
       <img src="/5rhythms-horizontal-english-black-gold.svg" alt="5Rhythms" class="logo" />
+      <span v-if="formattedFetchedAt" class="last-updated">last updated: {{ formattedFetchedAt }}</span>
     </header>
     <main>
-      <EventCalendar />
+      <EventCalendar @metadata-loaded="onMetadataLoaded" />
     </main>
   </div>
 </template>
@@ -29,6 +51,7 @@ header {
   align-items: center;
   justify-content: space-between;
   height: 4rem;
+  position: relative;
 }
 
 header h1 {
@@ -40,6 +63,14 @@ header h1 {
 .logo {
   height: calc(4rem - 2px);
   margin: 1px 0;
+}
+
+.last-updated {
+  position: absolute;
+  left: 2rem;
+  top: 100%;
+  color: #888;
+  font-size: 0.75rem;
 }
 
 main {

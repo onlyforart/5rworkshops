@@ -336,6 +336,16 @@ async function main() {
     const result = await fetchEvents();
     browser = result.browser;
 
+    if (!result.events || !Array.isArray(result.events)) {
+      console.error('Error: Invalid response - events data is not an array');
+      process.exit(1);
+    }
+
+    if (result.events.length === 0) {
+      console.error('Error: No events found from source');
+      process.exit(1);
+    }
+
     // Second pass: fetch dates for on-demand events
     const events = await fetchOnDemandDates(result.events, result.page);
 
@@ -344,7 +354,22 @@ async function main() {
     const currentEvents = events.filter(event => !isEventInPast(event, yesterdayYYMMDD));
 
     console.error(`Filtered out ${events.length - currentEvents.length} past events`);
-    console.log(JSON.stringify(currentEvents, null, 2));
+
+    if (currentEvents.length === 0) {
+      console.error('Error: No current events remaining after filtering past events');
+      process.exit(1);
+    }
+
+    const output = {
+      metadata: {
+        sourceUrl: URL,
+        eventCount: currentEvents.length,
+        fetchedAt: new Date().toISOString()
+      },
+      events: currentEvents
+    };
+
+    console.log(JSON.stringify(output, null, 2));
   } catch (error) {
     console.error('Error fetching events:', error.message);
     process.exit(1);

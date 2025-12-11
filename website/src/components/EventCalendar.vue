@@ -6,6 +6,10 @@ const events = ref([])
 const loading = ref(true)
 const error = ref(null)
 const svgRef = ref(null)
+const fetchedAt = ref(null)
+
+// Emit for parent component
+const emit = defineEmits(['metadata-loaded'])
 
 // Selected levels (all selected by default)
 const selectedLevels = ref(new Set())
@@ -601,7 +605,12 @@ onMounted(async () => {
   try {
     const response = await fetch('/data/event-data.json')
     if (!response.ok) throw new Error('Failed to load event data')
-    events.value = await response.json()
+    const data = await response.json()
+    events.value = data.events
+    fetchedAt.value = data.metadata?.fetchedAt
+    if (fetchedAt.value) {
+      emit('metadata-loaded', { fetchedAt: fetchedAt.value })
+    }
     loading.value = false
 
     // Initialize all levels as selected

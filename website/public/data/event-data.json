@@ -2,7 +2,7 @@
   "metadata": {
     "sourceUrl": "https://www.5rhythms.com/EventSearch.php?validate_event_level=&event_type_id=2&event_country=&event_state=&event_city%5B%5D=&event_days%5B%5D=&event_startDate=mm%2Fdd%2Fyy&event_endDate=mm%2Fdd%2Fyy&location_lat=&location_long=&findIt=FIND+IT&isAdvancedSearch=1&SearchName=&SearchEvent=&event_level_id%5B%5D=",
     "eventCount": 326,
-    "fetchedAt": "2025-12-14T07:38:13.023Z"
+    "fetchedAt": "2025-12-14T15:09:17.248Z"
   },
   "events": [
     {
@@ -1986,32 +1986,6 @@
       }
     },
     {
-      "name": "Geerdet bewegt",
-      "url": "https://www.5rhythms.com/workshops/Geerdetbewegt-296959",
-      "is_ondemand": false,
-      "date_from": "260110",
-      "date_to": "260110",
-      "teachers": [
-        {
-          "title": "Irene Husung",
-          "url": "https://www.5rhythms.com/teachers/Irene+Husung"
-        }
-      ],
-      "levels": [
-        {
-          "title": "Waves",
-          "url": "https://www.5rhythms.com/waves-circle/"
-        }
-      ],
-      "city": "Finsterwalde",
-      "country": "Germany",
-      "contact": {
-        "hasContactForm": true,
-        "teacherId": "296959",
-        "phone": "+491520 2084144"
-      }
-    },
-    {
       "name": "Inspiration",
       "url": "https://www.5rhythms.com/workshops/Inspiration-296845",
       "is_ondemand": false,
@@ -2606,6 +2580,32 @@
       "contact": {
         "hasContactForm": true,
         "teacherId": "296537"
+      }
+    },
+    {
+      "name": "Geerdet bewegt",
+      "url": "https://www.5rhythms.com/workshops/Geerdetbewegt-296959",
+      "is_ondemand": false,
+      "date_from": "260124",
+      "date_to": "260124",
+      "teachers": [
+        {
+          "title": "Irene Husung",
+          "url": "https://www.5rhythms.com/teachers/Irene+Husung"
+        }
+      ],
+      "levels": [
+        {
+          "title": "Waves",
+          "url": "https://www.5rhythms.com/waves-circle/"
+        }
+      ],
+      "city": "Finsterwalde",
+      "country": "Germany",
+      "contact": {
+        "hasContactForm": true,
+        "teacherId": "296959",
+        "phone": "+491520 2084144"
       }
     },
     {

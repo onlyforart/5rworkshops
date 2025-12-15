@@ -1,8 +1,8 @@
 {
   "metadata": {
     "sourceUrl": "https://www.5rhythms.com/EventSearch.php?validate_event_level=&event_type_id=2&event_country=&event_state=&event_city%5B%5D=&event_days%5B%5D=&event_startDate=mm%2Fdd%2Fyy&event_endDate=mm%2Fdd%2Fyy&location_lat=&location_long=&findIt=FIND+IT&isAdvancedSearch=1&SearchName=&SearchEvent=&event_level_id%5B%5D=",
-    "eventCount": 326,
-    "fetchedAt": "2025-12-14T15:09:17.248Z"
+    "eventCount": 323,
+    "fetchedAt": "2025-12-15T11:22:02.514Z"
   },
   "events": [
     {
@@ -55,114 +55,6 @@
         "hasContactForm": true,
         "teacherId": "296842",
         "phone": "0645023617"
-      }
-    },
-    {
-      "name": "Completion  (ONLINE)",
-      "url": "https://www.5rhythms.com/workshops/CompletionONLINE-296772",
-      "is_ondemand": false,
-      "date_from": "251214",
-      "date_to": "251214",
-      "teachers": [
-        {
-          "title": "Andrew Holmes",
-          "url": "https://www.5rhythms.com/teachers/Andrew+Holmes"
-        }
-      ],
-      "levels": [
-        {
-          "title": "Waves",
-          "url": "https://www.5rhythms.com/waves-circle/"
-        }
-      ],
-      "city": "Somerset",
-      "country": "United Kingdom",
-      "contact": {
-        "hasContactForm": true,
-        "teacherId": "296772",
-        "phone": "+44 (7931) 351234"
-      }
-    },
-    {
-      "name": "Domenica Insieme: ADDIO 2025",
-      "url": "https://www.5rhythms.com/workshops/DomenicaInsiemeADDIO-296714",
-      "is_ondemand": false,
-      "date_from": "251214",
-      "date_to": "251214",
-      "teachers": [
-        {
-          "title": "Nirvana Sofia Zamarian",
-          "url": "https://www.5rhythms.com/teachers/Nirvana+Sofia+Zamarian"
-        }
-      ],
-      "levels": [
-        {
-          "title": "Waves",
-          "url": "https://www.5rhythms.com/waves-circle/"
-        }
-      ],
-      "city": "Torino",
-      "country": "Italy",
-      "contact": {
-        "hasContactForm": true,
-        "teacherId": "296714",
-        "phone": "+39 349 8179937"
-      }
-    },
-    {
-      "name": "HOLY PRESENCE: LIVE WIRE ONLINE",
-      "url": "https://www.5rhythms.com/workshops/HOLYPRESENCELIVEWIREONLINE-296884",
-      "is_ondemand": false,
-      "date_from": "251214",
-      "date_to": "251214",
-      "teachers": [
-        {
-          "title": "Jup Jansonius",
-          "url": "https://www.5rhythms.com/teachers/Jup+Jansonius"
-        },
-        {
-          "title": "Lorca Simons",
-          "url": "https://www.5rhythms.com/teachers/Lorca+Simons"
-        }
-      ],
-      "levels": [
-        {
-          "title": "Waves",
-          "url": "https://www.5rhythms.com/waves-circle/"
-        }
-      ],
-      "city": "Chiavari",
-      "country": "Italy",
-      "contact": {
-        "hasContactForm": true,
-        "teacherId": "296884",
-        "phone": "0031-6-81418018"
-      }
-    },
-    {
-      "name": "Trust & Surrender",
-      "url": "https://www.5rhythms.com/workshops/TrustSurrender-296735",
-      "is_ondemand": false,
-      "date_from": "251214",
-      "date_to": "251214",
-      "teachers": [
-        {
-          "title": "Katrien Mazijn",
-          "url": "https://www.5rhythms.com/teachers/Katrien+Mazijn"
-        }
-      ],
-      "levels": [
-        {
-          "title": "Waves",
-          "url": "https://www.5rhythms.com/waves-circle/"
-        }
-      ],
-      "city": "Brugge",
-      "country": "Belgium",
-      "contact": {
-        "hasContactForm": true,
-        "teacherId": "296735",
-        "phone": "0032495247204"
       }
     },
     {
@@ -1479,32 +1371,6 @@
     },
     {
       "name": "New Year's Eve Dance",
-      "url": "https://www.5rhythms.com/workshops/NewYearsEveDance-296875",
-      "is_ondemand": false,
-      "date_from": "251231",
-      "date_to": "260101",
-      "teachers": [
-        {
-          "title": "Irem Luqman",
-          "url": "https://www.5rhythms.com/teachers/Irem+Luqman"
-        }
-      ],
-      "levels": [
-        {
-          "title": "Waves",
-          "url": "https://www.5rhythms.com/waves-circle/"
-        }
-      ],
-      "city": "London",
-      "country": "United Kingdom",
-      "contact": {
-        "hasContactForm": true,
-        "teacherId": "296875",
-        "phone": "0044(0)7584040414"
-      }
-    },
-    {
-      "name": "New Year's Eve Dance",
       "url": "https://www.5rhythms.com/workshops/NewYearsEveDance-296843",
       "is_ondemand": false,
       "date_from": "251231",
@@ -1527,6 +1393,32 @@
         "hasContactForm": true,
         "teacherId": "296843",
         "phone": "+36304752394"
+      }
+    },
+    {
+      "name": "New Year's Eve Dance",
+      "url": "https://www.5rhythms.com/workshops/NewYearsEveDance-296875",
+      "is_ondemand": false,
+      "date_from": "251231",
+      "date_to": "260101",
+      "teachers": [
+        {
+          "title": "Irem Luqman",
+          "url": "https://www.5rhythms.com/teachers/Irem+Luqman"
+        }
+      ],
+      "levels": [
+        {
+          "title": "Waves",
+          "url": "https://www.5rhythms.com/waves-circle/"
+        }
+      ],
+      "city": "London",
+      "country": "United Kingdom",
+      "contact": {
+        "hasContactForm": true,
+        "teacherId": "296875",
+        "phone": "0044(0)7584040414"
       }
     },
     {
@@ -5125,6 +5017,31 @@
       "contact": {
         "hasContactForm": true,
         "teacherId": "296022"
+      }
+    },
+    {
+      "name": "Shadow Play",
+      "url": "https://www.5rhythms.com/workshops/ShadowPlay-297047",
+      "is_ondemand": false,
+      "date_from": "260320",
+      "date_to": "260322",
+      "teachers": [
+        {
+          "title": "Tammy Burstein",
+          "url": "https://www.5rhythms.com/teachers/Tammy+Burstein"
+        }
+      ],
+      "levels": [
+        {
+          "title": "Waves",
+          "url": "https://www.5rhythms.com/waves-circle/"
+        }
+      ],
+      "city": "Northampton",
+      "country": "United States",
+      "contact": {
+        "hasContactForm": true,
+        "teacherId": "297047"
       }
     },
     {

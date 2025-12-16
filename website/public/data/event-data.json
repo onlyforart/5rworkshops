@@ -1,8 +1,8 @@
 {
   "metadata": {
     "sourceUrl": "https://www.5rhythms.com/EventSearch.php?validate_event_level=&event_type_id=2&event_country=&event_state=&event_city%5B%5D=&event_days%5B%5D=&event_startDate=mm%2Fdd%2Fyy&event_endDate=mm%2Fdd%2Fyy&location_lat=&location_long=&findIt=FIND+IT&isAdvancedSearch=1&SearchName=&SearchEvent=&event_level_id%5B%5D=",
-    "eventCount": 323,
-    "fetchedAt": "2025-12-15T11:22:02.514Z"
+    "eventCount": 325,
+    "fetchedAt": "2025-12-16T08:59:49.262Z"
   },
   "events": [
     {
@@ -29,32 +29,6 @@
         "hasContactForm": true,
         "teacherId": "295902",
         "phone": "645884862"
-      }
-    },
-    {
-      "name": "Connection",
-      "url": "https://www.5rhythms.com/workshops/Connection-296842",
-      "is_ondemand": false,
-      "date_from": "251213",
-      "date_to": "251214",
-      "teachers": [
-        {
-          "title": "Tineke de Wit",
-          "url": "https://www.5rhythms.com/teachers/Tineke+de+Wit"
-        }
-      ],
-      "levels": [
-        {
-          "title": "Waves",
-          "url": "https://www.5rhythms.com/waves-circle/"
-        }
-      ],
-      "city": "Haarlem",
-      "country": "Netherlands",
-      "contact": {
-        "hasContactForm": true,
-        "teacherId": "296842",
-        "phone": "0645023617"
       }
     },
     {
@@ -1072,6 +1046,32 @@
       }
     },
     {
+      "name": "Good endings, Strong begginings",
+      "url": "https://www.5rhythms.com/workshops/GoodendingsStrongbegginings-289942",
+      "is_ondemand": false,
+      "date_from": "251229",
+      "date_to": "251231",
+      "teachers": [
+        {
+          "title": "Willemijn de Dreu",
+          "url": "https://www.5rhythms.com/teachers/Willemijn+de+Dreu"
+        }
+      ],
+      "levels": [
+        {
+          "title": "Waves",
+          "url": "https://www.5rhythms.com/waves-circle/"
+        }
+      ],
+      "city": "Zutphen",
+      "country": "Netherlands",
+      "contact": {
+        "hasContactForm": true,
+        "teacherId": "289942",
+        "phone": "+31643527633"
+      }
+    },
+    {
       "name": "MUSIC, DANCE, TRIBE",
       "url": "https://www.5rhythms.com/workshops/MUSICDANCETRIBE-296414",
       "is_ondemand": false,
@@ -1371,32 +1371,6 @@
     },
     {
       "name": "New Year's Eve Dance",
-      "url": "https://www.5rhythms.com/workshops/NewYearsEveDance-296843",
-      "is_ondemand": false,
-      "date_from": "251231",
-      "date_to": "260101",
-      "teachers": [
-        {
-          "title": "Peter Fejer",
-          "url": "https://www.5rhythms.com/teachers/Peter+Fejer"
-        }
-      ],
-      "levels": [
-        {
-          "title": "Waves",
-          "url": "https://www.5rhythms.com/waves-circle/"
-        }
-      ],
-      "city": "Budapest",
-      "country": "Hungary",
-      "contact": {
-        "hasContactForm": true,
-        "teacherId": "296843",
-        "phone": "+36304752394"
-      }
-    },
-    {
-      "name": "New Year's Eve Dance",
       "url": "https://www.5rhythms.com/workshops/NewYearsEveDance-296875",
       "is_ondemand": false,
       "date_from": "251231",
@@ -1419,6 +1393,32 @@
         "hasContactForm": true,
         "teacherId": "296875",
         "phone": "0044(0)7584040414"
+      }
+    },
+    {
+      "name": "New Year's Eve Dance",
+      "url": "https://www.5rhythms.com/workshops/NewYearsEveDance-296843",
+      "is_ondemand": false,
+      "date_from": "251231",
+      "date_to": "260101",
+      "teachers": [
+        {
+          "title": "Peter Fejer",
+          "url": "https://www.5rhythms.com/teachers/Peter+Fejer"
+        }
+      ],
+      "levels": [
+        {
+          "title": "Waves",
+          "url": "https://www.5rhythms.com/waves-circle/"
+        }
+      ],
+      "city": "Budapest",
+      "country": "Hungary",
+      "contact": {
+        "hasContactForm": true,
+        "teacherId": "296843",
+        "phone": "+36304752394"
       }
     },
     {
@@ -3480,6 +3480,32 @@
         "hasContactForm": true,
         "teacherId": "296931",
         "phone": "+44 (0)7950581056"
+      }
+    },
+    {
+      "name": "Wheel of E-motion",
+      "url": "https://www.5rhythms.com/workshops/WheelofEmotion-297049",
+      "is_ondemand": false,
+      "date_from": "260208",
+      "date_to": "260628",
+      "teachers": [
+        {
+          "title": "Monika Korschner",
+          "url": "https://www.5rhythms.com/teachers/Monika+Korschner"
+        }
+      ],
+      "levels": [
+        {
+          "title": "Waves",
+          "url": "https://www.5rhythms.com/waves-circle/"
+        }
+      ],
+      "city": "Amsterdam",
+      "country": "Netherlands",
+      "contact": {
+        "hasContactForm": true,
+        "teacherId": "297049",
+        "phone": "0612602244"
       }
     },
     {
@@ -7079,6 +7105,35 @@
         "hasContactForm": true,
         "teacherId": "296159",
         "phone": "+41(0) 79 314 50 44"
+      }
+    },
+    {
+      "name": "Dance of Connection Retreat at Hollyhock",
+      "url": "https://www.5rhythms.com/workshops/DanceofConnectionRetreatatHollyhock-294464",
+      "is_ondemand": false,
+      "date_from": "260619",
+      "date_to": "260624",
+      "teachers": [
+        {
+          "title": "Bettina Rothe",
+          "url": "https://www.5rhythms.com/teachers/Bettina+Rothe"
+        },
+        {
+          "title": "Shauna Devlin",
+          "url": "https://www.5rhythms.com/teachers/Shauna+Devlin"
+        }
+      ],
+      "levels": [
+        {
+          "title": "Waves",
+          "url": "https://www.5rhythms.com/waves-circle/"
+        }
+      ],
+      "city": "Cortes Island",
+      "country": "Canada",
+      "contact": {
+        "hasContactForm": true,
+        "teacherId": "294464"
       }
     },
     {

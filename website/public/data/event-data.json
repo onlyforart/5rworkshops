@@ -1,8 +1,8 @@
 {
   "metadata": {
     "sourceUrl": "https://www.5rhythms.com/EventSearch.php?validate_event_level=&event_type_id=2&event_country=&event_state=&event_city%5B%5D=&event_days%5B%5D=&event_startDate=mm%2Fdd%2Fyy&event_endDate=mm%2Fdd%2Fyy&location_lat=&location_long=&findIt=FIND+IT&isAdvancedSearch=1&SearchName=&SearchEvent=&event_level_id%5B%5D=",
-    "eventCount": 325,
-    "fetchedAt": "2025-12-16T08:59:49.262Z"
+    "eventCount": 328,
+    "fetchedAt": "2025-12-17T08:49:42.333Z"
   },
   "events": [
     {
@@ -2665,6 +2665,32 @@
       }
     },
     {
+      "name": "ONLINE-Visions-Workshop",
+      "url": "https://www.5rhythms.com/workshops/ONLINEVisionsWorkshop-297056",
+      "is_ondemand": false,
+      "date_from": "260128",
+      "date_to": "260211",
+      "teachers": [
+        {
+          "title": "Iris Yasmine Harms",
+          "url": "https://www.5rhythms.com/teachers/Iris+Yasmine+Harms"
+        }
+      ],
+      "levels": [
+        {
+          "title": "Waves",
+          "url": "https://www.5rhythms.com/waves-circle/"
+        }
+      ],
+      "city": "Duesseldorf",
+      "country": "Germany",
+      "contact": {
+        "hasContactForm": true,
+        "teacherId": "297056",
+        "phone": "0049 162 755 87 22"
+      }
+    },
+    {
       "name": "TENDER TERRAIN",
       "url": "https://www.5rhythms.com/workshops/TENDERTERRAIN-296945",
       "is_ondemand": false,
@@ -4428,6 +4454,32 @@
         "hasContactForm": true,
         "teacherId": "297036",
         "phone": "07947 168916"
+      }
+    },
+    {
+      "name": "Music is the Healing Force of the Universe",
+      "url": "https://www.5rhythms.com/workshops/MusicistheHealingForceoftheUniverse-297059",
+      "is_ondemand": false,
+      "date_from": "260307",
+      "date_to": "260307",
+      "teachers": [
+        {
+          "title": "Christian de Sousa",
+          "url": "https://www.5rhythms.com/teachers/Christian+de+Sousa"
+        }
+      ],
+      "levels": [
+        {
+          "title": "Waves",
+          "url": "https://www.5rhythms.com/waves-circle/"
+        }
+      ],
+      "city": "London",
+      "country": "United Kingdom",
+      "contact": {
+        "hasContactForm": true,
+        "teacherId": "297059",
+        "phone": "+44 (0)7597099645"
       }
     },
     {
@@ -6801,6 +6853,32 @@
       "contact": {
         "hasContactForm": true,
         "teacherId": "297022"
+      }
+    },
+    {
+      "name": "Soul Power 3-day Immersion",
+      "url": "https://www.5rhythms.com/workshops/SoulPowerdayImmersion-297060",
+      "is_ondemand": false,
+      "date_from": "260522",
+      "date_to": "260524",
+      "teachers": [
+        {
+          "title": "Christian de Sousa",
+          "url": "https://www.5rhythms.com/teachers/Christian+de+Sousa"
+        }
+      ],
+      "levels": [
+        {
+          "title": "Waves",
+          "url": "https://www.5rhythms.com/waves-circle/"
+        }
+      ],
+      "city": "Luzern",
+      "country": "Switzerland",
+      "contact": {
+        "hasContactForm": true,
+        "teacherId": "297060",
+        "phone": "+44 (0)7597099645"
       }
     },
     {

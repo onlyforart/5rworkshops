@@ -1,8 +1,8 @@
 {
   "metadata": {
     "sourceUrl": "https://www.5rhythms.com/EventSearch.php?validate_event_level=&event_type_id=2&event_country=&event_state=&event_city%5B%5D=&event_days%5B%5D=&event_startDate=mm%2Fdd%2Fyy&event_endDate=mm%2Fdd%2Fyy&location_lat=&location_long=&findIt=FIND+IT&isAdvancedSearch=1&SearchName=&SearchEvent=&event_level_id%5B%5D=",
-    "eventCount": 328,
-    "fetchedAt": "2025-12-17T08:49:42.333Z"
+    "eventCount": 330,
+    "fetchedAt": "2025-12-18T11:42:08.973Z"
   },
   "events": [
     {
@@ -58,32 +58,6 @@
       }
     },
     {
-      "name": "Stillness in Compassion: Being LOVE",
-      "url": "https://www.5rhythms.com/workshops/StillnessinCompassionBeingLOVE-296815",
-      "is_ondemand": false,
-      "date_from": "251217",
-      "date_to": "251217",
-      "teachers": [
-        {
-          "title": "Irene Hernandez Sanchez",
-          "url": "https://www.5rhythms.com/teachers/Irene+Hernandez+Sanchez"
-        }
-      ],
-      "levels": [
-        {
-          "title": "Heartbeat",
-          "url": "https://www.5rhythms.com/heartbeat-circle/"
-        }
-      ],
-      "city": "Murcia",
-      "country": "Spain",
-      "contact": {
-        "hasContactForm": true,
-        "teacherId": "296815",
-        "phone": "+34651733875"
-      }
-    },
-    {
       "name": "A Taste of Bliss",
       "url": "https://www.5rhythms.com/workshops/ATasteofBliss-296798",
       "is_ondemand": false,
@@ -106,6 +80,40 @@
       "contact": {
         "hasContactForm": true,
         "teacherId": "296798"
+      }
+    },
+    {
+      "name": "FLAVORS",
+      "url": "https://www.5rhythms.com/workshops/FLAVORS-297067",
+      "is_ondemand": false,
+      "date_from": "251219",
+      "date_to": "251220",
+      "teachers": [
+        {
+          "title": "Tako Megrelishvili",
+          "url": "https://www.5rhythms.com/teachers/Tako+Megrelishvili"
+        },
+        {
+          "title": "Peter Schitz",
+          "url": "https://www.5rhythms.com/teachers/Peter+Schitz"
+        },
+        {
+          "title": "Reem Behzad",
+          "url": "https://www.5rhythms.com/teachers/Reem+Behzad"
+        }
+      ],
+      "levels": [
+        {
+          "title": "Waves",
+          "url": "https://www.5rhythms.com/waves-circle/"
+        }
+      ],
+      "city": "Tbilisi",
+      "country": "Georgia",
+      "contact": {
+        "hasContactForm": true,
+        "teacherId": "297067",
+        "phone": "+995599987602"
       }
     },
     {
@@ -162,32 +170,6 @@
         "hasContactForm": true,
         "teacherId": "297002",
         "phone": "0049-177-7041070"
-      }
-    },
-    {
-      "name": "The Medicine of The Shadow",
-      "url": "https://www.5rhythms.com/workshops/TheMedicineofTheShadow-295669",
-      "is_ondemand": false,
-      "date_from": "251219",
-      "date_to": "251221",
-      "teachers": [
-        {
-          "title": "Chris Camp",
-          "url": "https://www.5rhythms.com/teachers/Chris+Camp"
-        }
-      ],
-      "levels": [
-        {
-          "title": "Waves",
-          "url": "https://www.5rhythms.com/waves-circle/"
-        }
-      ],
-      "city": "Tbilisi",
-      "country": "Georgia",
-      "contact": {
-        "hasContactForm": true,
-        "teacherId": "295669",
-        "phone": "+995599987602"
       }
     },
     {
@@ -343,6 +325,32 @@
         "hasContactForm": true,
         "teacherId": "296748",
         "phone": "310.625.5170"
+      }
+    },
+    {
+      "name": "NEGUKO SOLSTIZIOA . SOLSTICIO INVIERNO",
+      "url": "https://www.5rhythms.com/workshops/NEGUKOSOLSTIZIOASOLSTICIOINVIERNO-297065",
+      "is_ondemand": false,
+      "date_from": "251220",
+      "date_to": "251220",
+      "teachers": [
+        {
+          "title": "Elurtza  Etxebeste-Gelbentzu",
+          "url": "https://www.5rhythms.com/teachers/Elurtza++Etxebeste-Gelbentzu+"
+        }
+      ],
+      "levels": [
+        {
+          "title": "Waves",
+          "url": "https://www.5rhythms.com/waves-circle/"
+        }
+      ],
+      "city": "Guipuzcoa",
+      "country": "Spain",
+      "contact": {
+        "hasContactForm": true,
+        "teacherId": "297065",
+        "phone": "+34  608773399"
       }
     },
     {
@@ -1371,32 +1379,6 @@
     },
     {
       "name": "New Year's Eve Dance",
-      "url": "https://www.5rhythms.com/workshops/NewYearsEveDance-296875",
-      "is_ondemand": false,
-      "date_from": "251231",
-      "date_to": "260101",
-      "teachers": [
-        {
-          "title": "Irem Luqman",
-          "url": "https://www.5rhythms.com/teachers/Irem+Luqman"
-        }
-      ],
-      "levels": [
-        {
-          "title": "Waves",
-          "url": "https://www.5rhythms.com/waves-circle/"
-        }
-      ],
-      "city": "London",
-      "country": "United Kingdom",
-      "contact": {
-        "hasContactForm": true,
-        "teacherId": "296875",
-        "phone": "0044(0)7584040414"
-      }
-    },
-    {
-      "name": "New Year's Eve Dance",
       "url": "https://www.5rhythms.com/workshops/NewYearsEveDance-296843",
       "is_ondemand": false,
       "date_from": "251231",
@@ -1419,6 +1401,32 @@
         "hasContactForm": true,
         "teacherId": "296843",
         "phone": "+36304752394"
+      }
+    },
+    {
+      "name": "New Year's Eve Dance",
+      "url": "https://www.5rhythms.com/workshops/NewYearsEveDance-296875",
+      "is_ondemand": false,
+      "date_from": "251231",
+      "date_to": "260101",
+      "teachers": [
+        {
+          "title": "Irem Luqman",
+          "url": "https://www.5rhythms.com/teachers/Irem+Luqman"
+        }
+      ],
+      "levels": [
+        {
+          "title": "Waves",
+          "url": "https://www.5rhythms.com/waves-circle/"
+        }
+      ],
+      "city": "London",
+      "country": "United Kingdom",
+      "contact": {
+        "hasContactForm": true,
+        "teacherId": "296875",
+        "phone": "0044(0)7584040414"
       }
     },
     {
@@ -6834,12 +6842,20 @@
           "url": "https://www.5rhythms.com/teachers/Dagmar+Cee"
         },
         {
-          "title": "Tim Barnes",
-          "url": "https://www.5rhythms.com/teachers/Tim+Barnes"
+          "title": "Julie Stuart",
+          "url": "https://www.5rhythms.com/teachers/Julie+Stuart"
+        },
+        {
+          "title": "Joanna Hussakowska",
+          "url": "https://www.5rhythms.com/teachers/Joanna+Hussakowska"
         },
         {
           "title": "Bettina Leuckert",
           "url": "https://www.5rhythms.com/teachers/Bettina+Leuckert"
+        },
+        {
+          "title": "Tim Barnes",
+          "url": "https://www.5rhythms.com/teachers/Tim+Barnes"
         }
       ],
       "levels": [
@@ -6853,6 +6869,35 @@
       "contact": {
         "hasContactForm": true,
         "teacherId": "297022"
+      }
+    },
+    {
+      "name": "RETREAT: Rhythm, Ritual and Renewal: Moving with Grief, Healing through Loss",
+      "url": "https://www.5rhythms.com/workshops/RETREATRhythmRitualandRenewalMovingwithGriefHealingthroughLoss-297064",
+      "is_ondemand": false,
+      "date_from": "260522",
+      "date_to": "260524",
+      "teachers": [
+        {
+          "title": "Jenny Fahy",
+          "url": "https://www.5rhythms.com/teachers/Jenny+Fahy"
+        },
+        {
+          "title": "Peter Selwyn",
+          "url": "https://www.5rhythms.com/teachers/Peter+Selwyn"
+        }
+      ],
+      "levels": [
+        {
+          "title": "Waves",
+          "url": "https://www.5rhythms.com/waves-circle/"
+        }
+      ],
+      "city": "Ennis",
+      "country": "Ireland",
+      "contact": {
+        "hasContactForm": true,
+        "teacherId": "297064"
       }
     },
     {
@@ -6913,6 +6958,32 @@
         "hasContactForm": true,
         "teacherId": "296978",
         "phone": "+61 409 992 656"
+      }
+    },
+    {
+      "name": "The Mystical and Spiritual aspects of the 5Rhythms - TRANCE &  TRANSFORMATION",
+      "url": "https://www.5rhythms.com/workshops/TheMysticalandSpiritualaspectsoftheRhythmsTRANCETRANSFORMATION-297069",
+      "is_ondemand": false,
+      "date_from": "260522",
+      "date_to": "260525",
+      "teachers": [
+        {
+          "title": "Jan Redsted",
+          "url": "https://www.5rhythms.com/teachers/Jan+Redsted"
+        }
+      ],
+      "levels": [
+        {
+          "title": "Waves",
+          "url": "https://www.5rhythms.com/waves-circle/"
+        }
+      ],
+      "city": "Karlsruhe",
+      "country": "Germany",
+      "contact": {
+        "hasContactForm": true,
+        "teacherId": "297069",
+        "phone": "+49 172 7659409"
       }
     },
     {

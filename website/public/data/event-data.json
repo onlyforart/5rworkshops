@@ -1,8 +1,8 @@
 {
   "metadata": {
     "sourceUrl": "https://www.5rhythms.com/EventSearch.php?validate_event_level=&event_type_id=2&event_country=&event_state=&event_city%5B%5D=&event_days%5B%5D=&event_startDate=mm%2Fdd%2Fyy&event_endDate=mm%2Fdd%2Fyy&location_lat=&location_long=&findIt=FIND+IT&isAdvancedSearch=1&SearchName=&SearchEvent=&event_level_id%5B%5D=",
-    "eventCount": 330,
-    "fetchedAt": "2025-12-18T11:42:08.973Z"
+    "eventCount": 332,
+    "fetchedAt": "2025-12-19T07:48:57.309Z"
   },
   "events": [
     {
@@ -55,31 +55,6 @@
         "hasContactForm": true,
         "teacherId": "296045",
         "phone": "07556019816"
-      }
-    },
-    {
-      "name": "A Taste of Bliss",
-      "url": "https://www.5rhythms.com/workshops/ATasteofBliss-296798",
-      "is_ondemand": false,
-      "date_from": "251218",
-      "date_to": "251222",
-      "teachers": [
-        {
-          "title": "Sudevi Sundari",
-          "url": "https://www.5rhythms.com/teachers/Sudevi+Sundari"
-        }
-      ],
-      "levels": [
-        {
-          "title": "Waves",
-          "url": "https://www.5rhythms.com/waves-circle/"
-        }
-      ],
-      "city": "Nadia",
-      "country": "India",
-      "contact": {
-        "hasContactForm": true,
-        "teacherId": "296798"
       }
     },
     {
@@ -1962,6 +1937,36 @@
       }
     },
     {
+      "name": "V I S I O N online",
+      "url": "https://www.5rhythms.com/workshops/VISIONonline-297071",
+      "is_ondemand": false,
+      "date_from": "260111",
+      "date_to": "260111",
+      "teachers": [
+        {
+          "title": "Lorca Simons",
+          "url": "https://www.5rhythms.com/teachers/Lorca+Simons"
+        },
+        {
+          "title": "Jup Jansonius",
+          "url": "https://www.5rhythms.com/teachers/Jup+Jansonius"
+        }
+      ],
+      "levels": [
+        {
+          "title": "Waves",
+          "url": "https://www.5rhythms.com/waves-circle/"
+        }
+      ],
+      "city": "London",
+      "country": "United Kingdom",
+      "contact": {
+        "hasContactForm": true,
+        "teacherId": "297071",
+        "phone": "0031-6-81418018"
+      }
+    },
+    {
       "name": "Renewal - 6 day New Year workshop (residential recommended)",
       "url": "https://www.5rhythms.com/workshops/RenewaldayNewYearworkshopresidentialrecommended-296432",
       "is_ondemand": false,
@@ -2751,6 +2756,36 @@
       }
     },
     {
+      "name": "G A T H E R:                                             LONDON",
+      "url": "https://www.5rhythms.com/workshops/GATHERLONDON-297070",
+      "is_ondemand": false,
+      "date_from": "260130",
+      "date_to": "260201",
+      "teachers": [
+        {
+          "title": "Lorca Simons",
+          "url": "https://www.5rhythms.com/teachers/Lorca+Simons"
+        },
+        {
+          "title": "Emma Leech",
+          "url": "https://www.5rhythms.com/teachers/Emma+Leech"
+        }
+      ],
+      "levels": [
+        {
+          "title": "Waves",
+          "url": "https://www.5rhythms.com/waves-circle/"
+        }
+      ],
+      "city": "London",
+      "country": "United Kingdom",
+      "contact": {
+        "hasContactForm": true,
+        "teacherId": "297070",
+        "phone": "7932928284"
+      }
+    },
+    {
       "name": "Leuchtkraft / RADIENCE",
       "url": "https://www.5rhythms.com/workshops/LeuchtkraftRADIENCE-295772",
       "is_ondemand": false,
@@ -2962,6 +2997,32 @@
       "contact": {
         "hasContactForm": true,
         "teacherId": "297003"
+      }
+    },
+    {
+      "name": "Heart Matters",
+      "url": "https://www.5rhythms.com/workshops/HeartMatters-297073",
+      "is_ondemand": false,
+      "date_from": "260131",
+      "date_to": "260131",
+      "teachers": [
+        {
+          "title": "Neil Pinnock",
+          "url": "https://www.5rhythms.com/teachers/Neil+Pinnock"
+        }
+      ],
+      "levels": [
+        {
+          "title": "Heartbeat",
+          "url": "https://www.5rhythms.com/heartbeat-circle/"
+        }
+      ],
+      "city": "Birmingham",
+      "country": "United Kingdom",
+      "contact": {
+        "hasContactForm": true,
+        "teacherId": "297073",
+        "phone": "+44 (0)7761 856154"
       }
     },
     {
@@ -6570,36 +6631,6 @@
       }
     },
     {
-      "name": "BREATH IN MOTION: AUSTRALIA",
-      "url": "https://www.5rhythms.com/workshops/BREATHINMOTIONAUSTRALIA-296980",
-      "is_ondemand": false,
-      "date_from": "260515",
-      "date_to": "260517",
-      "teachers": [
-        {
-          "title": "Lorca Simons",
-          "url": "https://www.5rhythms.com/teachers/Lorca+Simons"
-        },
-        {
-          "title": "Honor Morningstar",
-          "url": "https://www.5rhythms.com/teachers/Honor+Morningstar"
-        }
-      ],
-      "levels": [
-        {
-          "title": "Waves",
-          "url": "https://www.5rhythms.com/waves-circle/"
-        }
-      ],
-      "city": "Byron Bay",
-      "country": "Australia",
-      "contact": {
-        "hasContactForm": true,
-        "teacherId": "296980",
-        "phone": "+61(0) 401 597 292"
-      }
-    },
-    {
       "name": "FOUR on the FLOOR",
       "url": "https://www.5rhythms.com/workshops/FOURontheFLOOR-296946",
       "is_ondemand": false,
@@ -6635,6 +6666,36 @@
         "hasContactForm": true,
         "teacherId": "296946",
         "phone": "250-709-1921"
+      }
+    },
+    {
+      "name": "ROOTS: LIVE WIRE AUSTRALIA",
+      "url": "https://www.5rhythms.com/workshops/ROOTSLIVEWIREAUSTRALIA-295802",
+      "is_ondemand": false,
+      "date_from": "260515",
+      "date_to": "260517",
+      "teachers": [
+        {
+          "title": "Lorca Simons",
+          "url": "https://www.5rhythms.com/teachers/Lorca+Simons"
+        },
+        {
+          "title": "Rivka Worth",
+          "url": "https://www.5rhythms.com/teachers/Rivka+Worth"
+        }
+      ],
+      "levels": [
+        {
+          "title": "Waves",
+          "url": "https://www.5rhythms.com/waves-circle/"
+        }
+      ],
+      "city": "Adelaide",
+      "country": "Australia",
+      "contact": {
+        "hasContactForm": true,
+        "teacherId": "295802",
+        "phone": "7932928284"
       }
     },
     {
@@ -7017,8 +7078,8 @@
       }
     },
     {
-      "name": "ROOTS: LIVE WIRE AUSTRALIA",
-      "url": "https://www.5rhythms.com/workshops/ROOTSLIVEWIREAUSTRALIA-295802",
+      "name": "BREATH IN MOTION: AUSTRALIA",
+      "url": "https://www.5rhythms.com/workshops/BREATHINMOTIONAUSTRALIA-296980",
       "is_ondemand": false,
       "date_from": "260529",
       "date_to": "260531",
@@ -7028,8 +7089,8 @@
           "url": "https://www.5rhythms.com/teachers/Lorca+Simons"
         },
         {
-          "title": "Rivka Worth",
-          "url": "https://www.5rhythms.com/teachers/Rivka+Worth"
+          "title": "Honor Morningstar",
+          "url": "https://www.5rhythms.com/teachers/Honor+Morningstar"
         }
       ],
       "levels": [
@@ -7038,12 +7099,12 @@
           "url": "https://www.5rhythms.com/waves-circle/"
         }
       ],
-      "city": "Adelaide",
+      "city": "Byron Bay",
       "country": "Australia",
       "contact": {
         "hasContactForm": true,
-        "teacherId": "295802",
-        "phone": "7932928284"
+        "teacherId": "296980",
+        "phone": "+61(0) 401 597 292"
       }
     },
     {

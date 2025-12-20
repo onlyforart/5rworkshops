@@ -1,8 +1,8 @@
 {
   "metadata": {
     "sourceUrl": "https://www.5rhythms.com/EventSearch.php?validate_event_level=&event_type_id=2&event_country=&event_state=&event_city%5B%5D=&event_days%5B%5D=&event_startDate=mm%2Fdd%2Fyy&event_endDate=mm%2Fdd%2Fyy&location_lat=&location_long=&findIt=FIND+IT&isAdvancedSearch=1&SearchName=&SearchEvent=&event_level_id%5B%5D=",
-    "eventCount": 332,
-    "fetchedAt": "2025-12-19T07:48:57.309Z"
+    "eventCount": 334,
+    "fetchedAt": "2025-12-20T06:01:36.909Z"
   },
   "events": [
     {
@@ -55,147 +55,6 @@
         "hasContactForm": true,
         "teacherId": "296045",
         "phone": "07556019816"
-      }
-    },
-    {
-      "name": "FLAVORS",
-      "url": "https://www.5rhythms.com/workshops/FLAVORS-297067",
-      "is_ondemand": false,
-      "date_from": "251219",
-      "date_to": "251220",
-      "teachers": [
-        {
-          "title": "Tako Megrelishvili",
-          "url": "https://www.5rhythms.com/teachers/Tako+Megrelishvili"
-        },
-        {
-          "title": "Peter Schitz",
-          "url": "https://www.5rhythms.com/teachers/Peter+Schitz"
-        },
-        {
-          "title": "Reem Behzad",
-          "url": "https://www.5rhythms.com/teachers/Reem+Behzad"
-        }
-      ],
-      "levels": [
-        {
-          "title": "Waves",
-          "url": "https://www.5rhythms.com/waves-circle/"
-        }
-      ],
-      "city": "Tbilisi",
-      "country": "Georgia",
-      "contact": {
-        "hasContactForm": true,
-        "teacherId": "297067",
-        "phone": "+995599987602"
-      }
-    },
-    {
-      "name": "HOLY SWEAT winter edition",
-      "url": "https://www.5rhythms.com/workshops/HOLYSWEATwinteredition-294263",
-      "is_ondemand": false,
-      "date_from": "251219",
-      "date_to": "251221",
-      "teachers": [
-        {
-          "title": "Rimke  Pepers",
-          "url": "https://www.5rhythms.com/teachers/Rimke++Pepers"
-        }
-      ],
-      "levels": [
-        {
-          "title": "Waves",
-          "url": "https://www.5rhythms.com/waves-circle/"
-        }
-      ],
-      "city": "Roodeschool",
-      "country": "Netherlands",
-      "contact": {
-        "hasContactForm": true,
-        "teacherId": "294263",
-        "phone": "00 31 (0)6 51877857"
-      }
-    },
-    {
-      "name": "Tanz durch die Nacht",
-      "url": "https://www.5rhythms.com/workshops/TanzdurchdieNacht-297002",
-      "is_ondemand": false,
-      "date_from": "251219",
-      "date_to": "251220",
-      "teachers": [
-        {
-          "title": "Julia Knezevic",
-          "url": "https://www.5rhythms.com/teachers/Julia+Knezevic"
-        },
-        {
-          "title": "Sonja Hellmann",
-          "url": "https://www.5rhythms.com/teachers/Sonja+Hellmann"
-        }
-      ],
-      "levels": [
-        {
-          "title": "Waves",
-          "url": "https://www.5rhythms.com/waves-circle/"
-        }
-      ],
-      "city": "Cologne / Koeln",
-      "country": "Germany",
-      "contact": {
-        "hasContactForm": true,
-        "teacherId": "297002",
-        "phone": "0049-177-7041070"
-      }
-    },
-    {
-      "name": "Wandlung / Transformation",
-      "url": "https://www.5rhythms.com/workshops/WandlungTransformation-295823",
-      "is_ondemand": false,
-      "date_from": "251219",
-      "date_to": "251221",
-      "teachers": [
-        {
-          "title": "Atmo Lars Lindvall",
-          "url": "https://www.5rhythms.com/teachers/Atmo+Lars+Lindvall"
-        }
-      ],
-      "levels": [
-        {
-          "title": "Waves",
-          "url": "https://www.5rhythms.com/waves-circle/"
-        }
-      ],
-      "city": "Davos",
-      "country": "Switzerland",
-      "contact": {
-        "hasContactForm": true,
-        "teacherId": "295823"
-      }
-    },
-    {
-      "name": "WinterSonnenWende",
-      "url": "https://www.5rhythms.com/workshops/WinterSonnenWende-296012",
-      "is_ondemand": false,
-      "date_from": "251219",
-      "date_to": "251221",
-      "teachers": [
-        {
-          "title": "Iris Yasmine Harms",
-          "url": "https://www.5rhythms.com/teachers/Iris+Yasmine+Harms"
-        }
-      ],
-      "levels": [
-        {
-          "title": "Waves",
-          "url": "https://www.5rhythms.com/waves-circle/"
-        }
-      ],
-      "city": "Fladungen",
-      "country": "Germany",
-      "contact": {
-        "hasContactForm": true,
-        "teacherId": "296012",
-        "phone": "0049 162 755 87 22"
       }
     },
     {
@@ -2335,6 +2194,31 @@
       }
     },
     {
+      "name": "Inner Garden",
+      "url": "https://www.5rhythms.com/workshops/InnerGarden-297080",
+      "is_ondemand": false,
+      "date_from": "260123",
+      "date_to": "260123",
+      "teachers": [
+        {
+          "title": "Karoliina  Valontaival",
+          "url": "https://www.5rhythms.com/teachers/Karoliina++Valontaival"
+        }
+      ],
+      "levels": [
+        {
+          "title": "Waves",
+          "url": "https://www.5rhythms.com/waves-circle/"
+        }
+      ],
+      "city": "Helsinki",
+      "country": "Finland",
+      "contact": {
+        "hasContactForm": true,
+        "teacherId": "297080"
+      }
+    },
+    {
       "name": "Ocean of Motion - a Summer Waves Journey Through the Elements",
       "url": "https://www.5rhythms.com/workshops/OceanofMotionaSummerWavesJourneyThroughtheElements-296787",
       "is_ondemand": false,
@@ -4255,6 +4139,31 @@
       }
     },
     {
+      "name": "Inner Garden",
+      "url": "https://www.5rhythms.com/workshops/InnerGarden-297081",
+      "is_ondemand": false,
+      "date_from": "260227",
+      "date_to": "260227",
+      "teachers": [
+        {
+          "title": "Karoliina  Valontaival",
+          "url": "https://www.5rhythms.com/teachers/Karoliina++Valontaival"
+        }
+      ],
+      "levels": [
+        {
+          "title": "Waves",
+          "url": "https://www.5rhythms.com/waves-circle/"
+        }
+      ],
+      "city": "Helsinki",
+      "country": "Finland",
+      "contact": {
+        "hasContactForm": true,
+        "teacherId": "297081"
+      }
+    },
+    {
       "name": "presence",
       "url": "https://www.5rhythms.com/workshops/presence-296585",
       "is_ondemand": false,
@@ -5300,6 +5209,31 @@
       }
     },
     {
+      "name": "Inner Garden",
+      "url": "https://www.5rhythms.com/workshops/InnerGarden-297082",
+      "is_ondemand": false,
+      "date_from": "260327",
+      "date_to": "260327",
+      "teachers": [
+        {
+          "title": "Karoliina  Valontaival",
+          "url": "https://www.5rhythms.com/teachers/Karoliina++Valontaival"
+        }
+      ],
+      "levels": [
+        {
+          "title": "Waves",
+          "url": "https://www.5rhythms.com/waves-circle/"
+        }
+      ],
+      "city": "Helsinki",
+      "country": "Finland",
+      "contact": {
+        "hasContactForm": true,
+        "teacherId": "297082"
+      }
+    },
+    {
       "name": "Kindness",
       "url": "https://www.5rhythms.com/workshops/Kindness-296563",
       "is_ondemand": false,
@@ -5883,6 +5817,31 @@
       }
     },
     {
+      "name": "Miraculous space",
+      "url": "https://www.5rhythms.com/workshops/Miraculousspace-297077",
+      "is_ondemand": false,
+      "date_from": "260419",
+      "date_to": "260419",
+      "teachers": [
+        {
+          "title": "Karoliina  Valontaival",
+          "url": "https://www.5rhythms.com/teachers/Karoliina++Valontaival"
+        }
+      ],
+      "levels": [
+        {
+          "title": "Waves",
+          "url": "https://www.5rhythms.com/waves-circle/"
+        }
+      ],
+      "city": "Helsinki",
+      "country": "Finland",
+      "contact": {
+        "hasContactForm": true,
+        "teacherId": "297077"
+      }
+    },
+    {
       "name": "SOUL NOTES: BARCELONA, SPAIN",
       "url": "https://www.5rhythms.com/workshops/SOULNOTESBARCELONASPAIN-296982",
       "is_ondemand": false,
@@ -5936,6 +5895,31 @@
         "hasContactForm": true,
         "teacherId": "296762",
         "phone": "00 31 (0)6 51877857"
+      }
+    },
+    {
+      "name": "Inner Garden",
+      "url": "https://www.5rhythms.com/workshops/InnerGarden-297083",
+      "is_ondemand": false,
+      "date_from": "260424",
+      "date_to": "260424",
+      "teachers": [
+        {
+          "title": "Karoliina  Valontaival",
+          "url": "https://www.5rhythms.com/teachers/Karoliina++Valontaival"
+        }
+      ],
+      "levels": [
+        {
+          "title": "Waves",
+          "url": "https://www.5rhythms.com/waves-circle/"
+        }
+      ],
+      "city": "Helsinki",
+      "country": "Finland",
+      "contact": {
+        "hasContactForm": true,
+        "teacherId": "297083"
       }
     },
     {
@@ -7108,6 +7092,31 @@
       }
     },
     {
+      "name": "Inner Garden",
+      "url": "https://www.5rhythms.com/workshops/InnerGarden-297084",
+      "is_ondemand": false,
+      "date_from": "260529",
+      "date_to": "260529",
+      "teachers": [
+        {
+          "title": "Karoliina  Valontaival",
+          "url": "https://www.5rhythms.com/teachers/Karoliina++Valontaival"
+        }
+      ],
+      "levels": [
+        {
+          "title": "Waves",
+          "url": "https://www.5rhythms.com/waves-circle/"
+        }
+      ],
+      "city": "Helsinki",
+      "country": "Finland",
+      "contact": {
+        "hasContactForm": true,
+        "teacherId": "297084"
+      }
+    },
+    {
       "name": "The Gold Wisdom That Lives In My Bones",
       "url": "https://www.5rhythms.com/workshops/TheGoldWisdomThatLivesInMyBones-294874",
       "is_ondemand": false,
@@ -7810,6 +7819,31 @@
         "hasContactForm": true,
         "teacherId": "296301",
         "phone": "0038640210440"
+      }
+    },
+    {
+      "name": "Bliss: 5-day Waves residential retreat in Finland (2025)",
+      "url": "https://www.5rhythms.com/workshops/BlissdayWavesresidentialretreatinFinland-297079",
+      "is_ondemand": false,
+      "date_from": "260721",
+      "date_to": "260725",
+      "teachers": [
+        {
+          "title": "Karoliina  Valontaival",
+          "url": "https://www.5rhythms.com/teachers/Karoliina++Valontaival"
+        }
+      ],
+      "levels": [
+        {
+          "title": "Waves",
+          "url": "https://www.5rhythms.com/waves-circle/"
+        }
+      ],
+      "city": "KemiÃ¶nsaari",
+      "country": "Finland",
+      "contact": {
+        "hasContactForm": true,
+        "teacherId": "297079"
       }
     },
     {

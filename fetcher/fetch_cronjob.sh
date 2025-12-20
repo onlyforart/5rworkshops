@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# Source user profile to get PATH and environment variables
+source ~/.bash_profile 2>/dev/null || source ~/.zprofile 2>/dev/null
+
 # Change to the script's directory
 cd "$(dirname "$0")"
 

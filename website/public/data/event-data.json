@@ -1,8 +1,8 @@
 {
   "metadata": {
     "sourceUrl": "https://www.5rhythms.com/EventSearch.php?validate_event_level=&event_type_id=2&event_country=&event_state=&event_city%5B%5D=&event_days%5B%5D=&event_startDate=mm%2Fdd%2Fyy&event_endDate=mm%2Fdd%2Fyy&location_lat=&location_long=&findIt=FIND+IT&isAdvancedSearch=1&SearchName=&SearchEvent=&event_level_id%5B%5D=",
-    "eventCount": 334,
-    "fetchedAt": "2025-12-20T06:01:36.909Z"
+    "eventCount": 328,
+    "fetchedAt": "2025-12-21T06:01:33.045Z"
   },
   "events": [
     {
@@ -55,191 +55,6 @@
         "hasContactForm": true,
         "teacherId": "296045",
         "phone": "07556019816"
-      }
-    },
-    {
-      "name": "Darkness and Delight - 5 day heartbeat worksop in the winter solstice",
-      "url": "https://www.5rhythms.com/workshops/DarknessandDelightdayheartbeatworksopinthewintersolstice-295951",
-      "is_ondemand": false,
-      "date_from": "251220",
-      "date_to": "251224",
-      "teachers": [
-        {
-          "title": "Mirjam Van Hasselt",
-          "url": "https://www.5rhythms.com/teachers/Mirjam+Van+Hasselt"
-        }
-      ],
-      "levels": [
-        {
-          "title": "Heartbeat",
-          "url": "https://www.5rhythms.com/heartbeat-circle/"
-        }
-      ],
-      "city": "Amsterdam",
-      "country": "Netherlands",
-      "contact": {
-        "hasContactForm": true,
-        "teacherId": "295951",
-        "phone": "+31 6 24587344"
-      }
-    },
-    {
-      "name": "Elemental Force:Rest & Reflection",
-      "url": "https://www.5rhythms.com/workshops/ElementalForceRestReflection-296297",
-      "is_ondemand": false,
-      "date_from": "251220",
-      "date_to": "251221",
-      "teachers": [
-        {
-          "title": "Jup Jansonius",
-          "url": "https://www.5rhythms.com/teachers/Jup+Jansonius"
-        }
-      ],
-      "levels": [
-        {
-          "title": "Heartbeat",
-          "url": "https://www.5rhythms.com/heartbeat-circle/"
-        }
-      ],
-      "city": "Chiavari",
-      "country": "Italy",
-      "contact": {
-        "hasContactForm": true,
-        "teacherId": "296297",
-        "phone": "0031-6-81418018"
-      }
-    },
-    {
-      "name": "Explore the Maps - Stillness",
-      "url": "https://www.5rhythms.com/workshops/ExploretheMapsStillness-296711",
-      "is_ondemand": false,
-      "date_from": "251220",
-      "date_to": "251220",
-      "teachers": [
-        {
-          "title": "Arthur Ellert",
-          "url": "https://www.5rhythms.com/teachers/Arthur+Ellert"
-        }
-      ],
-      "levels": [
-        {
-          "title": "Waves",
-          "url": "https://www.5rhythms.com/waves-circle/"
-        }
-      ],
-      "city": "Vienna",
-      "country": "Austria",
-      "contact": {
-        "hasContactForm": true,
-        "teacherId": "296711",
-        "phone": "+4367684143933"
-      }
-    },
-    {
-      "name": "Luminous Absence",
-      "url": "https://www.5rhythms.com/workshops/LuminousAbsence-296748",
-      "is_ondemand": false,
-      "date_from": "251220",
-      "date_to": "251220",
-      "teachers": [
-        {
-          "title": "Jeffrey Boynton",
-          "url": "https://www.5rhythms.com/teachers/Jeffrey+Boynton"
-        }
-      ],
-      "levels": [
-        {
-          "title": "Waves",
-          "url": "https://www.5rhythms.com/waves-circle/"
-        }
-      ],
-      "city": "Crozet",
-      "country": "United States",
-      "contact": {
-        "hasContactForm": true,
-        "teacherId": "296748",
-        "phone": "310.625.5170"
-      }
-    },
-    {
-      "name": "NEGUKO SOLSTIZIOA . SOLSTICIO INVIERNO",
-      "url": "https://www.5rhythms.com/workshops/NEGUKOSOLSTIZIOASOLSTICIOINVIERNO-297065",
-      "is_ondemand": false,
-      "date_from": "251220",
-      "date_to": "251220",
-      "teachers": [
-        {
-          "title": "Elurtza  Etxebeste-Gelbentzu",
-          "url": "https://www.5rhythms.com/teachers/Elurtza++Etxebeste-Gelbentzu+"
-        }
-      ],
-      "levels": [
-        {
-          "title": "Waves",
-          "url": "https://www.5rhythms.com/waves-circle/"
-        }
-      ],
-      "city": "Guipuzcoa",
-      "country": "Spain",
-      "contact": {
-        "hasContactForm": true,
-        "teacherId": "297065",
-        "phone": "+34  608773399"
-      }
-    },
-    {
-      "name": "Solstice",
-      "url": "https://www.5rhythms.com/workshops/Solstice-295959",
-      "is_ondemand": false,
-      "date_from": "251220",
-      "date_to": "251220",
-      "teachers": [
-        {
-          "title": "Layah Jane Singer-Wilson",
-          "url": "https://www.5rhythms.com/teachers/Layah+Jane+Singer-Wilson"
-        },
-        {
-          "title": "Kate Huband",
-          "url": "https://www.5rhythms.com/teachers/Kate+Huband"
-        }
-      ],
-      "levels": [
-        {
-          "title": "Waves",
-          "url": "https://www.5rhythms.com/waves-circle/"
-        }
-      ],
-      "city": "Toronto",
-      "country": "Canada",
-      "contact": {
-        "hasContactForm": true,
-        "teacherId": "295959"
-      }
-    },
-    {
-      "name": "Wintersonnwende",
-      "url": "https://www.5rhythms.com/workshops/Wintersonnwende-294923",
-      "is_ondemand": false,
-      "date_from": "251220",
-      "date_to": "251220",
-      "teachers": [
-        {
-          "title": "Verena Sacher-Graiff",
-          "url": "https://www.5rhythms.com/teachers/Verena+Sacher-Graiff"
-        }
-      ],
-      "levels": [
-        {
-          "title": "Waves",
-          "url": "https://www.5rhythms.com/waves-circle/"
-        }
-      ],
-      "city": "Innsbruck",
-      "country": "Austria",
-      "contact": {
-        "hasContactForm": true,
-        "teacherId": "294923",
-        "phone": "00436769710321"
       }
     },
     {
@@ -1213,32 +1028,6 @@
     },
     {
       "name": "New Year's Eve Dance",
-      "url": "https://www.5rhythms.com/workshops/NewYearsEveDance-296843",
-      "is_ondemand": false,
-      "date_from": "251231",
-      "date_to": "260101",
-      "teachers": [
-        {
-          "title": "Peter Fejer",
-          "url": "https://www.5rhythms.com/teachers/Peter+Fejer"
-        }
-      ],
-      "levels": [
-        {
-          "title": "Waves",
-          "url": "https://www.5rhythms.com/waves-circle/"
-        }
-      ],
-      "city": "Budapest",
-      "country": "Hungary",
-      "contact": {
-        "hasContactForm": true,
-        "teacherId": "296843",
-        "phone": "+36304752394"
-      }
-    },
-    {
-      "name": "New Year's Eve Dance",
       "url": "https://www.5rhythms.com/workshops/NewYearsEveDance-296875",
       "is_ondemand": false,
       "date_from": "251231",
@@ -1261,6 +1050,32 @@
         "hasContactForm": true,
         "teacherId": "296875",
         "phone": "0044(0)7584040414"
+      }
+    },
+    {
+      "name": "New Year's Eve Dance",
+      "url": "https://www.5rhythms.com/workshops/NewYearsEveDance-296843",
+      "is_ondemand": false,
+      "date_from": "251231",
+      "date_to": "260101",
+      "teachers": [
+        {
+          "title": "Peter Fejer",
+          "url": "https://www.5rhythms.com/teachers/Peter+Fejer"
+        }
+      ],
+      "levels": [
+        {
+          "title": "Waves",
+          "url": "https://www.5rhythms.com/waves-circle/"
+        }
+      ],
+      "city": "Budapest",
+      "country": "Hungary",
+      "contact": {
+        "hasContactForm": true,
+        "teacherId": "296843",
+        "phone": "+36304752394"
       }
     },
     {
@@ -4962,6 +4777,44 @@
         "hasContactForm": true,
         "teacherId": "296253",
         "phone": "+47 92486151"
+      }
+    },
+    {
+      "name": "5 Elementos",
+      "url": "https://www.5rhythms.com/workshops/Elementos-297088",
+      "is_ondemand": false,
+      "date_from": "260320",
+      "date_to": "260322",
+      "teachers": [
+        {
+          "title": "Rosa Valgode",
+          "url": "https://www.5rhythms.com/teachers/Rosa+Valgode"
+        },
+        {
+          "title": "Sybelle de Lima",
+          "url": "https://www.5rhythms.com/teachers/Sybelle+de+Lima"
+        },
+        {
+          "title": "Meisy  Llobenes",
+          "url": "https://www.5rhythms.com/teachers/Meisy++Llobenes"
+        },
+        {
+          "title": "Fátima Falcao",
+          "url": "https://www.5rhythms.com/teachers/F%C3%A1tima+Falcao+"
+        }
+      ],
+      "levels": [
+        {
+          "title": "Waves",
+          "url": "https://www.5rhythms.com/waves-circle/"
+        }
+      ],
+      "city": "Sao Paulo",
+      "country": "Brazil",
+      "contact": {
+        "hasContactForm": true,
+        "teacherId": "297088",
+        "phone": "+5521985058500"
       }
     },
     {

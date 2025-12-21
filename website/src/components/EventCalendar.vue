@@ -30,17 +30,21 @@ const continentOrder = [
 
 // Country to continent mapping
 const countryToContinent = {
+  'Argentina': 'South America',
   'Australia': 'Oceania',
   'Austria': 'Europe',
   'Belgium': 'Europe',
   'Belize': 'Central America',
+  'Brazil': 'South America',
   'Bulgaria': 'Europe',
   'Canada': 'North America',
+  'Chile': 'South America',
   'Colombia': 'South America',
   'Costa Rica': 'Central America',
   'Croatia': 'Europe',
   'Czech Republic': 'Europe',
   'Denmark': 'Europe',
+  'Ecuador': 'South America',
   'Finland': 'Europe',
   'France': 'Europe',
   'Georgia': 'Europe',

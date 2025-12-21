@@ -2,7 +2,7 @@
   "metadata": {
     "sourceUrl": "https://www.5rhythms.com/EventSearch.php?validate_event_level=&event_type_id=2&event_country=&event_state=&event_city%5B%5D=&event_days%5B%5D=&event_startDate=mm%2Fdd%2Fyy&event_endDate=mm%2Fdd%2Fyy&location_lat=&location_long=&findIt=FIND+IT&isAdvancedSearch=1&SearchName=&SearchEvent=&event_level_id%5B%5D=",
     "eventCount": 328,
-    "fetchedAt": "2025-12-21T06:01:33.045Z"
+    "fetchedAt": "2025-12-21T16:29:29.411Z"
   },
   "events": [
     {
@@ -1028,32 +1028,6 @@
     },
     {
       "name": "New Year's Eve Dance",
-      "url": "https://www.5rhythms.com/workshops/NewYearsEveDance-296875",
-      "is_ondemand": false,
-      "date_from": "251231",
-      "date_to": "260101",
-      "teachers": [
-        {
-          "title": "Irem Luqman",
-          "url": "https://www.5rhythms.com/teachers/Irem+Luqman"
-        }
-      ],
-      "levels": [
-        {
-          "title": "Waves",
-          "url": "https://www.5rhythms.com/waves-circle/"
-        }
-      ],
-      "city": "London",
-      "country": "United Kingdom",
-      "contact": {
-        "hasContactForm": true,
-        "teacherId": "296875",
-        "phone": "0044(0)7584040414"
-      }
-    },
-    {
-      "name": "New Year's Eve Dance",
       "url": "https://www.5rhythms.com/workshops/NewYearsEveDance-296843",
       "is_ondemand": false,
       "date_from": "251231",
@@ -1076,6 +1050,32 @@
         "hasContactForm": true,
         "teacherId": "296843",
         "phone": "+36304752394"
+      }
+    },
+    {
+      "name": "New Year's Eve Dance",
+      "url": "https://www.5rhythms.com/workshops/NewYearsEveDance-296875",
+      "is_ondemand": false,
+      "date_from": "251231",
+      "date_to": "260101",
+      "teachers": [
+        {
+          "title": "Irem Luqman",
+          "url": "https://www.5rhythms.com/teachers/Irem+Luqman"
+        }
+      ],
+      "levels": [
+        {
+          "title": "Waves",
+          "url": "https://www.5rhythms.com/waves-circle/"
+        }
+      ],
+      "city": "London",
+      "country": "United Kingdom",
+      "contact": {
+        "hasContactForm": true,
+        "teacherId": "296875",
+        "phone": "0044(0)7584040414"
       }
     },
     {

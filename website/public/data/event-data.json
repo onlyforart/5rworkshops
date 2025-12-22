@@ -1,8 +1,8 @@
 {
   "metadata": {
     "sourceUrl": "https://www.5rhythms.com/EventSearch.php?validate_event_level=&event_type_id=2&event_country=&event_state=&event_city%5B%5D=&event_days%5B%5D=&event_startDate=mm%2Fdd%2Fyy&event_endDate=mm%2Fdd%2Fyy&location_lat=&location_long=&findIt=FIND+IT&isAdvancedSearch=1&SearchName=&SearchEvent=&event_level_id%5B%5D=",
-    "eventCount": 328,
-    "fetchedAt": "2025-12-21T16:29:29.411Z"
+    "eventCount": 323,
+    "fetchedAt": "2025-12-22T06:01:30.705Z"
   },
   "events": [
     {
@@ -55,162 +55,6 @@
         "hasContactForm": true,
         "teacherId": "296045",
         "phone": "07556019816"
-      }
-    },
-    {
-      "name": "ALIGNMENT - Winter Solstice: Ritual! Dance! Sound Journey!",
-      "url": "https://www.5rhythms.com/workshops/ALIGNMENTWinterSolsticeRitualDanceSoundJourney-296971",
-      "is_ondemand": false,
-      "date_from": "251221",
-      "date_to": "251221",
-      "teachers": [
-        {
-          "title": "Ruth Hirst",
-          "url": "https://www.5rhythms.com/teachers/Ruth+Hirst"
-        }
-      ],
-      "levels": [
-        {
-          "title": "Waves",
-          "url": "https://www.5rhythms.com/waves-circle/"
-        }
-      ],
-      "city": "London",
-      "country": "United Kingdom",
-      "contact": {
-        "hasContactForm": true,
-        "teacherId": "296971",
-        "phone": "07956102032"
-      }
-    },
-    {
-      "name": "Angels and Ancestors",
-      "url": "https://www.5rhythms.com/workshops/AngelsandAncestors-296658",
-      "is_ondemand": false,
-      "date_from": "251221",
-      "date_to": "251221",
-      "teachers": [
-        {
-          "title": "Alex Mackay",
-          "url": "https://www.5rhythms.com/teachers/Alex+Mackay"
-        }
-      ],
-      "levels": [
-        {
-          "title": "Waves",
-          "url": "https://www.5rhythms.com/waves-circle/"
-        }
-      ],
-      "city": "Hebden Bridge",
-      "country": "United Kingdom",
-      "contact": {
-        "hasContactForm": true,
-        "teacherId": "296658",
-        "phone": "+44 (0)7950581056"
-      }
-    },
-    {
-      "name": "❄️5Rhythmen© Ritual Wave „Winter's calming\"",
-      "url": "https://www.5rhythms.com/workshops/RhythmenRitualWaveWinterscalming-295740",
-      "is_ondemand": false,
-      "date_from": "251221",
-      "date_to": "251221",
-      "teachers": [
-        {
-          "title": "Sonja Hellmann",
-          "url": "https://www.5rhythms.com/teachers/Sonja+Hellmann"
-        }
-      ],
-      "levels": [
-        {
-          "title": "Waves",
-          "url": "https://www.5rhythms.com/waves-circle/"
-        }
-      ],
-      "city": "Bonn",
-      "country": "Germany",
-      "contact": {
-        "hasContactForm": true,
-        "teacherId": "295740",
-        "phone": "+49 (0)228/8544778-0 (mit AB)"
-      }
-    },
-    {
-      "name": "MOVER Y PAUSAR",
-      "url": "https://www.5rhythms.com/workshops/MOVERYPAUSAR-296609",
-      "is_ondemand": false,
-      "date_from": "251221",
-      "date_to": "251221",
-      "teachers": [
-        {
-          "title": "Janis Fernandez",
-          "url": "https://www.5rhythms.com/teachers/Janis+Fernandez"
-        }
-      ],
-      "levels": [
-        {
-          "title": "Waves",
-          "url": "https://www.5rhythms.com/waves-circle/"
-        }
-      ],
-      "city": "Madrid",
-      "country": "Spain",
-      "contact": {
-        "hasContactForm": true,
-        "teacherId": "296609",
-        "phone": "660011505"
-      }
-    },
-    {
-      "name": "New Light in the Dark - Winter Solstice",
-      "url": "https://www.5rhythms.com/workshops/NewLightintheDarkWinterSolstice-296482",
-      "is_ondemand": false,
-      "date_from": "251221",
-      "date_to": "251221",
-      "teachers": [
-        {
-          "title": "Irene Husung",
-          "url": "https://www.5rhythms.com/teachers/Irene+Husung"
-        }
-      ],
-      "levels": [
-        {
-          "title": "Waves",
-          "url": "https://www.5rhythms.com/waves-circle/"
-        }
-      ],
-      "city": "Berlin",
-      "country": "Germany",
-      "contact": {
-        "hasContactForm": true,
-        "teacherId": "296482",
-        "phone": "+49.157.71593133"
-      }
-    },
-    {
-      "name": "SOLSTICE",
-      "url": "https://www.5rhythms.com/workshops/SOLSTICE-296412",
-      "is_ondemand": false,
-      "date_from": "251221",
-      "date_to": "251221",
-      "teachers": [
-        {
-          "title": "Guillaume Laplane",
-          "url": "https://www.5rhythms.com/teachers/Guillaume+Laplane"
-        }
-      ],
-      "levels": [
-        {
-          "title": "Waves",
-          "url": "https://www.5rhythms.com/waves-circle/"
-        }
-      ],
-      "city": "Marseille",
-      "country": "France",
-      "contact": {
-        "hasContactForm": true,
-        "teacherId": "296412",
-        "phone": "+33 6 65 60 47 18"
       }
     },
     {
@@ -482,8 +326,8 @@
       }
     },
     {
-      "name": "\"Magie der Raunächte\"",
-      "url": "https://www.5rhythms.com/workshops/MagiederRaunchte-296778",
+      "name": "\"Magie der Raunaechte\"",
+      "url": "https://www.5rhythms.com/workshops/MagiederRaunaechte-296778",
       "is_ondemand": false,
       "date_from": "251228",
       "date_to": "251228",
@@ -1028,32 +872,6 @@
     },
     {
       "name": "New Year's Eve Dance",
-      "url": "https://www.5rhythms.com/workshops/NewYearsEveDance-296843",
-      "is_ondemand": false,
-      "date_from": "251231",
-      "date_to": "260101",
-      "teachers": [
-        {
-          "title": "Peter Fejer",
-          "url": "https://www.5rhythms.com/teachers/Peter+Fejer"
-        }
-      ],
-      "levels": [
-        {
-          "title": "Waves",
-          "url": "https://www.5rhythms.com/waves-circle/"
-        }
-      ],
-      "city": "Budapest",
-      "country": "Hungary",
-      "contact": {
-        "hasContactForm": true,
-        "teacherId": "296843",
-        "phone": "+36304752394"
-      }
-    },
-    {
-      "name": "New Year's Eve Dance",
       "url": "https://www.5rhythms.com/workshops/NewYearsEveDance-296875",
       "is_ondemand": false,
       "date_from": "251231",
@@ -1076,6 +894,32 @@
         "hasContactForm": true,
         "teacherId": "296875",
         "phone": "0044(0)7584040414"
+      }
+    },
+    {
+      "name": "New Year's Eve Dance",
+      "url": "https://www.5rhythms.com/workshops/NewYearsEveDance-296843",
+      "is_ondemand": false,
+      "date_from": "251231",
+      "date_to": "260101",
+      "teachers": [
+        {
+          "title": "Peter Fejer",
+          "url": "https://www.5rhythms.com/teachers/Peter+Fejer"
+        }
+      ],
+      "levels": [
+        {
+          "title": "Waves",
+          "url": "https://www.5rhythms.com/waves-circle/"
+        }
+      ],
+      "city": "Budapest",
+      "country": "Hungary",
+      "contact": {
+        "hasContactForm": true,
+        "teacherId": "296843",
+        "phone": "+36304752394"
       }
     },
     {
@@ -3584,6 +3428,32 @@
         "hasContactForm": true,
         "teacherId": "296611",
         "phone": "660011505"
+      }
+    },
+    {
+      "name": "Calling in the Magic",
+      "url": "https://www.5rhythms.com/workshops/CallingintheMagic-297095",
+      "is_ondemand": false,
+      "date_from": "260217",
+      "date_to": "260609",
+      "teachers": [
+        {
+          "title": "Laila Wodtke Nissen",
+          "url": "https://www.5rhythms.com/teachers/Laila+Wodtke+Nissen"
+        }
+      ],
+      "levels": [
+        {
+          "title": "Waves",
+          "url": "https://www.5rhythms.com/waves-circle/"
+        }
+      ],
+      "city": "Aarhus",
+      "country": "Denmark",
+      "contact": {
+        "hasContactForm": true,
+        "teacherId": "297095",
+        "phone": "+4522254243"
       }
     },
     {

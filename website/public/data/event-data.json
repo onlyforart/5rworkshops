@@ -1,8 +1,8 @@
 {
   "metadata": {
     "sourceUrl": "https://www.5rhythms.com/EventSearch.php?validate_event_level=&event_type_id=2&event_country=&event_state=&event_city%5B%5D=&event_days%5B%5D=&event_startDate=mm%2Fdd%2Fyy&event_endDate=mm%2Fdd%2Fyy&location_lat=&location_long=&findIt=FIND+IT&isAdvancedSearch=1&SearchName=&SearchEvent=&event_level_id%5B%5D=",
-    "eventCount": 326,
-    "fetchedAt": "2025-12-23T06:01:23.946Z"
+    "eventCount": 336,
+    "fetchedAt": "2025-12-24T06:01:37.792Z"
   },
   "events": [
     {
@@ -4902,6 +4902,35 @@
       }
     },
     {
+      "name": "1-DAY FLOWING",
+      "url": "https://www.5rhythms.com/workshops/DAYFLOWING-297112",
+      "is_ondemand": false,
+      "date_from": "260321",
+      "date_to": "260321",
+      "teachers": [
+        {
+          "title": "Manuel Eppensteiner",
+          "url": "https://www.5rhythms.com/teachers/Manuel+Eppensteiner"
+        },
+        {
+          "title": "Lucia Eppensteiner",
+          "url": "https://www.5rhythms.com/teachers/Lucia+Eppensteiner"
+        }
+      ],
+      "levels": [
+        {
+          "title": "Waves",
+          "url": "https://www.5rhythms.com/waves-circle/"
+        }
+      ],
+      "city": "Innsbruck",
+      "country": "Austria",
+      "contact": {
+        "hasContactForm": true,
+        "teacherId": "297112"
+      }
+    },
+    {
       "name": "Pride & Joy",
       "url": "https://www.5rhythms.com/workshops/PrideJoy-296492",
       "is_ondemand": false,
@@ -5436,6 +5465,32 @@
       }
     },
     {
+      "name": "\"HEARTBEAT\"",
+      "url": "https://www.5rhythms.com/workshops/HEARTBEAT-297111",
+      "is_ondemand": false,
+      "date_from": "260417",
+      "date_to": "260419",
+      "teachers": [
+        {
+          "title": "Silvija Tomcik",
+          "url": "https://www.5rhythms.com/teachers/Silvija+Tomcik"
+        }
+      ],
+      "levels": [
+        {
+          "title": "Heartbeat",
+          "url": "https://www.5rhythms.com/heartbeat-circle/"
+        }
+      ],
+      "city": "Vienna",
+      "country": "Austria",
+      "contact": {
+        "hasContactForm": true,
+        "teacherId": "297111",
+        "phone": "+385915658084"
+      }
+    },
+    {
       "name": "5Rhythms Heartbeat",
       "url": "https://www.5rhythms.com/workshops/RhythmsHeartbeat-296683",
       "is_ondemand": false,
@@ -5773,6 +5828,40 @@
         "hasContactForm": true,
         "teacherId": "296819",
         "phone": "+393471307275"
+      }
+    },
+    {
+      "name": "Waves of Freedom - A 5Rhythms Residential Workshop",
+      "url": "https://www.5rhythms.com/workshops/WavesofFreedomARhythmsResidentialWorkshop-297118",
+      "is_ondemand": false,
+      "date_from": "260424",
+      "date_to": "260426",
+      "teachers": [
+        {
+          "title": "Ajay Rajani",
+          "url": "https://www.5rhythms.com/teachers/Ajay+Rajani"
+        },
+        {
+          "title": "Adam Eisen",
+          "url": "https://www.5rhythms.com/teachers/Adam+Eisen"
+        },
+        {
+          "title": "Susanne Nilsson",
+          "url": "https://www.5rhythms.com/teachers/Susanne+Nilsson"
+        }
+      ],
+      "levels": [
+        {
+          "title": "Waves",
+          "url": "https://www.5rhythms.com/waves-circle/"
+        }
+      ],
+      "city": "Lagos",
+      "country": "Portugal",
+      "contact": {
+        "hasContactForm": true,
+        "teacherId": "297118",
+        "phone": "+351 919 171 582"
       }
     },
     {
@@ -6138,6 +6227,32 @@
         "hasContactForm": true,
         "teacherId": "295188",
         "phone": "07951 011423"
+      }
+    },
+    {
+      "name": "Embrace the Unknown - 5Rhythms Retreat with yoga and micriobiotic food",
+      "url": "https://www.5rhythms.com/workshops/EmbracetheUnknownRhythmsRetreatwithyogaandmicriobioticfood-297121",
+      "is_ondemand": false,
+      "date_from": "260503",
+      "date_to": "260510",
+      "teachers": [
+        {
+          "title": "Katarzyna Kat Pugowska",
+          "url": "https://www.5rhythms.com/teachers/Katarzyna+Kat+Pugowska"
+        }
+      ],
+      "levels": [
+        {
+          "title": "Waves",
+          "url": "https://www.5rhythms.com/waves-circle/"
+        }
+      ],
+      "city": "Dingle",
+      "country": "Ireland",
+      "contact": {
+        "hasContactForm": true,
+        "teacherId": "297121",
+        "phone": "0044 7764233823"
       }
     },
     {
@@ -6889,6 +7004,35 @@
       "contact": {
         "hasContactForm": true,
         "teacherId": "297084"
+      }
+    },
+    {
+      "name": "1-DAY STACCATO",
+      "url": "https://www.5rhythms.com/workshops/DAYSTACCATO-297113",
+      "is_ondemand": false,
+      "date_from": "260530",
+      "date_to": "260530",
+      "teachers": [
+        {
+          "title": "Manuel Eppensteiner",
+          "url": "https://www.5rhythms.com/teachers/Manuel+Eppensteiner"
+        },
+        {
+          "title": "Lucia Eppensteiner",
+          "url": "https://www.5rhythms.com/teachers/Lucia+Eppensteiner"
+        }
+      ],
+      "levels": [
+        {
+          "title": "Waves",
+          "url": "https://www.5rhythms.com/waves-circle/"
+        }
+      ],
+      "city": "Innsbruck",
+      "country": "Austria",
+      "contact": {
+        "hasContactForm": true,
+        "teacherId": "297113"
       }
     },
     {
@@ -7732,6 +7876,32 @@
       }
     },
     {
+      "name": "Breakthough",
+      "url": "https://www.5rhythms.com/workshops/Breakthough-297120",
+      "is_ondemand": false,
+      "date_from": "260724",
+      "date_to": "260727",
+      "teachers": [
+        {
+          "title": "Stuart Phillips",
+          "url": "https://www.5rhythms.com/teachers/Stuart+Phillips"
+        }
+      ],
+      "levels": [
+        {
+          "title": "Waves",
+          "url": "https://www.5rhythms.com/waves-circle/"
+        }
+      ],
+      "city": "London",
+      "country": "United Kingdom",
+      "contact": {
+        "hasContactForm": true,
+        "teacherId": "297120",
+        "phone": "07947404889"
+      }
+    },
+    {
       "name": "WEFOREST, into the wild 2026",
       "url": "https://www.5rhythms.com/workshops/WEFORESTintothewild-296822",
       "is_ondemand": false,
@@ -8110,6 +8280,35 @@
       }
     },
     {
+      "name": "1-DAY CHAOS",
+      "url": "https://www.5rhythms.com/workshops/DAYCHAOS-297114",
+      "is_ondemand": false,
+      "date_from": "260822",
+      "date_to": "260822",
+      "teachers": [
+        {
+          "title": "Manuel Eppensteiner",
+          "url": "https://www.5rhythms.com/teachers/Manuel+Eppensteiner"
+        },
+        {
+          "title": "Lucia Eppensteiner",
+          "url": "https://www.5rhythms.com/teachers/Lucia+Eppensteiner"
+        }
+      ],
+      "levels": [
+        {
+          "title": "Waves",
+          "url": "https://www.5rhythms.com/waves-circle/"
+        }
+      ],
+      "city": "Innsbruck",
+      "country": "Austria",
+      "contact": {
+        "hasContactForm": true,
+        "teacherId": "297114"
+      }
+    },
+    {
       "name": "\"HEART WAVES\"",
       "url": "https://www.5rhythms.com/workshops/HEARTWAVES-296965",
       "is_ondemand": false,
@@ -8294,6 +8493,32 @@
       }
     },
     {
+      "name": "HoloWave \"Why am I here?\"",
+      "url": "https://www.5rhythms.com/workshops/HoloWaveWhyamIhere-297108",
+      "is_ondemand": false,
+      "date_from": "261002",
+      "date_to": "261004",
+      "teachers": [
+        {
+          "title": "Monika Ortner",
+          "url": "https://www.5rhythms.com/teachers/Monika+Ortner"
+        }
+      ],
+      "levels": [
+        {
+          "title": "Waves",
+          "url": "https://www.5rhythms.com/waves-circle/"
+        }
+      ],
+      "city": "Winterthur",
+      "country": "Switzerland",
+      "contact": {
+        "hasContactForm": true,
+        "teacherId": "297108",
+        "phone": "+41 (0) 79 588 77 03"
+      }
+    },
+    {
       "name": "ROUGH MAGIC       SEATTLE",
       "url": "https://www.5rhythms.com/workshops/ROUGHMAGICSEATTLE-296993",
       "is_ondemand": false,
@@ -8343,6 +8568,35 @@
         "hasContactForm": true,
         "teacherId": "296877",
         "phone": "+34615705861"
+      }
+    },
+    {
+      "name": "1-DAY LYRICAL",
+      "url": "https://www.5rhythms.com/workshops/DAYLYRICAL-297115",
+      "is_ondemand": false,
+      "date_from": "261003",
+      "date_to": "261003",
+      "teachers": [
+        {
+          "title": "Manuel Eppensteiner",
+          "url": "https://www.5rhythms.com/teachers/Manuel+Eppensteiner"
+        },
+        {
+          "title": "Lucia Eppensteiner",
+          "url": "https://www.5rhythms.com/teachers/Lucia+Eppensteiner"
+        }
+      ],
+      "levels": [
+        {
+          "title": "Waves",
+          "url": "https://www.5rhythms.com/waves-circle/"
+        }
+      ],
+      "city": "Innsbruck",
+      "country": "Austria",
+      "contact": {
+        "hasContactForm": true,
+        "teacherId": "297115"
       }
     },
     {
@@ -8692,6 +8946,35 @@
         "hasContactForm": true,
         "teacherId": "296835",
         "phone": "+385915658084"
+      }
+    },
+    {
+      "name": "1-DAY STILLNESS",
+      "url": "https://www.5rhythms.com/workshops/DAYSTILLNESS-297116",
+      "is_ondemand": false,
+      "date_from": "261205",
+      "date_to": "261205",
+      "teachers": [
+        {
+          "title": "Manuel Eppensteiner",
+          "url": "https://www.5rhythms.com/teachers/Manuel+Eppensteiner"
+        },
+        {
+          "title": "Lucia Eppensteiner",
+          "url": "https://www.5rhythms.com/teachers/Lucia+Eppensteiner"
+        }
+      ],
+      "levels": [
+        {
+          "title": "Waves",
+          "url": "https://www.5rhythms.com/waves-circle/"
+        }
+      ],
+      "city": "Innsbruck",
+      "country": "Austria",
+      "contact": {
+        "hasContactForm": true,
+        "teacherId": "297116"
       }
     },
     {

@@ -1,8 +1,8 @@
 {
   "metadata": {
     "sourceUrl": "https://www.5rhythms.com/EventSearch.php?validate_event_level=&event_type_id=2&event_country=&event_state=&event_city%5B%5D=&event_days%5B%5D=&event_startDate=mm%2Fdd%2Fyy&event_endDate=mm%2Fdd%2Fyy&location_lat=&location_long=&findIt=FIND+IT&isAdvancedSearch=1&SearchName=&SearchEvent=&event_level_id%5B%5D=",
-    "eventCount": 334,
-    "fetchedAt": "2025-12-28T06:01:25.479Z"
+    "eventCount": 329,
+    "fetchedAt": "2025-12-29T06:01:29.445Z"
   },
   "events": [
     {
@@ -55,164 +55,6 @@
         "hasContactForm": true,
         "teacherId": "296045",
         "phone": "07556019816"
-      }
-    },
-    {
-      "name": "\"Magie der Raunaechte\"",
-      "url": "https://www.5rhythms.com/workshops/MagiederRaunaechte-296778",
-      "is_ondemand": false,
-      "date_from": "251228",
-      "date_to": "251228",
-      "teachers": [
-        {
-          "title": "Silke Amritha Schreiner",
-          "url": "https://www.5rhythms.com/teachers/Silke+Amritha+Schreiner"
-        }
-      ],
-      "levels": [
-        {
-          "title": "Waves",
-          "url": "https://www.5rhythms.com/waves-circle/"
-        }
-      ],
-      "city": "Bremen",
-      "country": "Germany",
-      "contact": {
-        "hasContactForm": true,
-        "teacherId": "296778",
-        "phone": "+49 (0)171-1673467"
-      }
-    },
-    {
-      "name": "A Soulful Year, what is behind and in front of us",
-      "url": "https://www.5rhythms.com/workshops/ASoulfulYearwhatisbehindandinfrontofus-296456",
-      "is_ondemand": false,
-      "date_from": "251228",
-      "date_to": "251229",
-      "teachers": [
-        {
-          "title": "Monika Korschner",
-          "url": "https://www.5rhythms.com/teachers/Monika+Korschner"
-        }
-      ],
-      "levels": [
-        {
-          "title": "Waves",
-          "url": "https://www.5rhythms.com/waves-circle/"
-        }
-      ],
-      "city": "Alkmaar",
-      "country": "Netherlands",
-      "contact": {
-        "hasContactForm": true,
-        "teacherId": "296456",
-        "phone": "0612602244"
-      }
-    },
-    {
-      "name": "New Year Dance 2025/26",
-      "url": "https://www.5rhythms.com/workshops/NewYearDance-296604",
-      "is_ondemand": false,
-      "date_from": "251228",
-      "date_to": "251228",
-      "teachers": [
-        {
-          "title": "Mary Hedger",
-          "url": "https://www.5rhythms.com/teachers/Mary+Hedger"
-        }
-      ],
-      "levels": [
-        {
-          "title": "Waves",
-          "url": "https://www.5rhythms.com/waves-circle/"
-        }
-      ],
-      "city": "Norfolk",
-      "country": "United Kingdom",
-      "contact": {
-        "hasContactForm": true,
-        "teacherId": "296604"
-      }
-    },
-    {
-      "name": "New year Workshop : New Crossing",
-      "url": "https://www.5rhythms.com/workshops/NewyearWorkshopNewCrossing-296277",
-      "is_ondemand": false,
-      "date_from": "251228",
-      "date_to": "260101",
-      "teachers": [
-        {
-          "title": "Marc Silvestre",
-          "url": "https://www.5rhythms.com/teachers/Marc+Silvestre"
-        }
-      ],
-      "levels": [
-        {
-          "title": "Heartbeat",
-          "url": "https://www.5rhythms.com/heartbeat-circle/"
-        },
-        {
-          "title": "Waves",
-          "url": "https://www.5rhythms.com/waves-circle/"
-        }
-      ],
-      "city": "Villetrun",
-      "country": "France",
-      "contact": {
-        "hasContactForm": true,
-        "teacherId": "296277",
-        "phone": "+33 6 74 53 02 72"
-      }
-    },
-    {
-      "name": "VISIONSTANZ",
-      "url": "https://www.5rhythms.com/workshops/VISIONSTANZ-296824",
-      "is_ondemand": false,
-      "date_from": "251228",
-      "date_to": "251228",
-      "teachers": [
-        {
-          "title": "Sarah Steinmann",
-          "url": "https://www.5rhythms.com/teachers/Sarah+Steinmann"
-        }
-      ],
-      "levels": [
-        {
-          "title": "Waves",
-          "url": "https://www.5rhythms.com/waves-circle/"
-        }
-      ],
-      "city": "Thun",
-      "country": "Switzerland",
-      "contact": {
-        "hasContactForm": true,
-        "teacherId": "296824",
-        "phone": "0041792089852"
-      }
-    },
-    {
-      "name": "Waves & Voice - New Year's Retreat",
-      "url": "https://www.5rhythms.com/workshops/WavesVoiceNewYearsRetreat-295459",
-      "is_ondemand": false,
-      "date_from": "251228",
-      "date_to": "260101",
-      "teachers": [
-        {
-          "title": "Dagmar Cee",
-          "url": "https://www.5rhythms.com/teachers/Dagmar+Cee"
-        }
-      ],
-      "levels": [
-        {
-          "title": "Waves",
-          "url": "https://www.5rhythms.com/waves-circle/"
-        }
-      ],
-      "city": "Dachsberg",
-      "country": "Germany",
-      "contact": {
-        "hasContactForm": true,
-        "teacherId": "295459"
       }
     },
     {
@@ -975,6 +817,32 @@
         "hasContactForm": true,
         "teacherId": "296913",
         "phone": "+1 418 723 2911"
+      }
+    },
+    {
+      "name": "The Moving Body Map 6-Week 5Rhythms® Series",
+      "url": "https://www.5rhythms.com/workshops/TheMovingBodyMapWeekRhythmsSeries-297145",
+      "is_ondemand": false,
+      "date_from": "260108",
+      "date_to": "260212",
+      "teachers": [
+        {
+          "title": "Bettina-Kira Neumann",
+          "url": "https://www.5rhythms.com/teachers/Bettina-Kira+Neumann"
+        }
+      ],
+      "levels": [
+        {
+          "title": "Waves",
+          "url": "https://www.5rhythms.com/waves-circle/"
+        }
+      ],
+      "city": "San Francisco",
+      "country": "United States",
+      "contact": {
+        "hasContactForm": true,
+        "teacherId": "297145",
+        "phone": "14156729064"
       }
     },
     {

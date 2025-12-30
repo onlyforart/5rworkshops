@@ -1,8 +1,8 @@
 {
   "metadata": {
     "sourceUrl": "https://www.5rhythms.com/EventSearch.php?validate_event_level=&event_type_id=2&event_country=&event_state=&event_city%5B%5D=&event_days%5B%5D=&event_startDate=mm%2Fdd%2Fyy&event_endDate=mm%2Fdd%2Fyy&location_lat=&location_long=&findIt=FIND+IT&isAdvancedSearch=1&SearchName=&SearchEvent=&event_level_id%5B%5D=",
-    "eventCount": 329,
-    "fetchedAt": "2025-12-29T06:01:29.445Z"
+    "eventCount": 324,
+    "fetchedAt": "2025-12-30T06:01:36.164Z"
   },
   "events": [
     {
@@ -55,177 +55,6 @@
         "hasContactForm": true,
         "teacherId": "296045",
         "phone": "07556019816"
-      }
-    },
-    {
-      "name": "\"TRIBAL DANCE\"",
-      "url": "https://www.5rhythms.com/workshops/TRIBALDANCE-296035",
-      "is_ondemand": false,
-      "date_from": "251229",
-      "date_to": "260102",
-      "teachers": [
-        {
-          "title": "Silvija Tomcik",
-          "url": "https://www.5rhythms.com/teachers/Silvija+Tomcik"
-        },
-        {
-          "title": "Thierry Francois",
-          "url": "https://www.5rhythms.com/teachers/Thierry+Francois"
-        }
-      ],
-      "levels": [
-        {
-          "title": "Waves",
-          "url": "https://www.5rhythms.com/waves-circle/"
-        }
-      ],
-      "city": "Leibnitz",
-      "country": "Austria",
-      "contact": {
-        "hasContactForm": true,
-        "teacherId": "296035",
-        "phone": "+43 664 2552441"
-      }
-    },
-    {
-      "name": "Gateways: A 5Rhythms Movement & Mindfulness Retreat",
-      "url": "https://www.5rhythms.com/workshops/GatewaysARhythmsMovementMindfulnessRetreat-295546",
-      "is_ondemand": false,
-      "date_from": "251229",
-      "date_to": "260102",
-      "teachers": [
-        {
-          "title": "Lucia Horan",
-          "url": "https://www.5rhythms.com/teachers/Lucia+Horan"
-        },
-        {
-          "title": "Martha Peabody",
-          "url": "https://www.5rhythms.com/teachers/Martha+Peabody+"
-        },
-        {
-          "title": "Douglas Drummond",
-          "url": "https://www.5rhythms.com/teachers/Douglas+Drummond"
-        }
-      ],
-      "levels": [
-        {
-          "title": "Waves",
-          "url": "https://www.5rhythms.com/waves-circle/"
-        }
-      ],
-      "city": "Big Sur",
-      "country": "United States",
-      "contact": {
-        "hasContactForm": true,
-        "teacherId": "295546"
-      }
-    },
-    {
-      "name": "Good endings, Strong begginings",
-      "url": "https://www.5rhythms.com/workshops/GoodendingsStrongbegginings-289942",
-      "is_ondemand": false,
-      "date_from": "251229",
-      "date_to": "251231",
-      "teachers": [
-        {
-          "title": "Willemijn de Dreu",
-          "url": "https://www.5rhythms.com/teachers/Willemijn+de+Dreu"
-        }
-      ],
-      "levels": [
-        {
-          "title": "Waves",
-          "url": "https://www.5rhythms.com/waves-circle/"
-        }
-      ],
-      "city": "Zutphen",
-      "country": "Netherlands",
-      "contact": {
-        "hasContactForm": true,
-        "teacherId": "289942",
-        "phone": "+31643527633"
-      }
-    },
-    {
-      "name": "MUSIC, DANCE, TRIBE",
-      "url": "https://www.5rhythms.com/workshops/MUSICDANCETRIBE-296414",
-      "is_ondemand": false,
-      "date_from": "251229",
-      "date_to": "260101",
-      "teachers": [
-        {
-          "title": "Janis Fernandez",
-          "url": "https://www.5rhythms.com/teachers/Janis+Fernandez"
-        }
-      ],
-      "levels": [
-        {
-          "title": "Waves",
-          "url": "https://www.5rhythms.com/waves-circle/"
-        }
-      ],
-      "city": "Colmenar Viejo",
-      "country": "Spain",
-      "contact": {
-        "hasContactForm": true,
-        "teacherId": "296414",
-        "phone": "660011505"
-      }
-    },
-    {
-      "name": "New Vision - New Year Workshop 2025/26 with Martina and Anze",
-      "url": "https://www.5rhythms.com/workshops/NewVisionNewYearWorkshopwithMartinaandAnze-295809",
-      "is_ondemand": false,
-      "date_from": "251229",
-      "date_to": "260101",
-      "teachers": [
-        {
-          "title": "Martina Motl",
-          "url": "https://www.5rhythms.com/teachers/Martina+Motl"
-        },
-        {
-          "title": "Anze Bertoncelj",
-          "url": "https://www.5rhythms.com/teachers/Anze+Bertoncelj"
-        }
-      ],
-      "levels": [
-        {
-          "title": "Waves",
-          "url": "https://www.5rhythms.com/waves-circle/"
-        }
-      ],
-      "city": "Kranj",
-      "country": "Slovenia",
-      "contact": {
-        "hasContactForm": true,
-        "teacherId": "295809",
-        "phone": "0038640210440"
-      }
-    },
-    {
-      "name": "PASSAGE- New Year",
-      "url": "https://www.5rhythms.com/workshops/PASSAGENewYear-295818",
-      "is_ondemand": false,
-      "date_from": "251229",
-      "date_to": "260102",
-      "teachers": [
-        {
-          "title": "Amelie Schweiger",
-          "url": "https://www.5rhythms.com/teachers/Amelie+Schweiger"
-        }
-      ],
-      "levels": [
-        {
-          "title": "Waves",
-          "url": "https://www.5rhythms.com/waves-circle/"
-        }
-      ],
-      "city": "Blandas",
-      "country": "France",
-      "contact": {
-        "hasContactForm": true,
-        "teacherId": "295818",
-        "phone": "+33 (0)683196396"
       }
     },
     {
@@ -1190,6 +1019,32 @@
         "hasContactForm": true,
         "teacherId": "296457",
         "phone": "0031 612602244"
+      }
+    },
+    {
+      "name": "Solid Ground",
+      "url": "https://www.5rhythms.com/workshops/SolidGround-297146",
+      "is_ondemand": false,
+      "date_from": "260116",
+      "date_to": "260117",
+      "teachers": [
+        {
+          "title": "Jup Jansonius",
+          "url": "https://www.5rhythms.com/teachers/Jup+Jansonius"
+        }
+      ],
+      "levels": [
+        {
+          "title": "Waves",
+          "url": "https://www.5rhythms.com/waves-circle/"
+        }
+      ],
+      "city": "Vienna",
+      "country": "Austria",
+      "contact": {
+        "hasContactForm": true,
+        "teacherId": "297146",
+        "phone": "+4369910617055"
       }
     },
     {

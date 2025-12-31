@@ -1,8 +1,8 @@
 {
   "metadata": {
     "sourceUrl": "https://www.5rhythms.com/EventSearch.php?validate_event_level=&event_type_id=2&event_country=&event_state=&event_city%5B%5D=&event_days%5B%5D=&event_startDate=mm%2Fdd%2Fyy&event_endDate=mm%2Fdd%2Fyy&location_lat=&location_long=&findIt=FIND+IT&isAdvancedSearch=1&SearchName=&SearchEvent=&event_level_id%5B%5D=",
-    "eventCount": 324,
-    "fetchedAt": "2025-12-30T06:01:36.164Z"
+    "eventCount": 321,
+    "fetchedAt": "2025-12-31T06:01:26.995Z"
   },
   "events": [
     {
@@ -55,170 +55,6 @@
         "hasContactForm": true,
         "teacherId": "296045",
         "phone": "07556019816"
-      }
-    },
-    {
-      "name": "Earth Heart - New Year Retreat",
-      "url": "https://www.5rhythms.com/workshops/EarthHeartNewYearRetreat-296511",
-      "is_ondemand": false,
-      "date_from": "251230",
-      "date_to": "260102",
-      "teachers": [
-        {
-          "title": "Neil Pinnock",
-          "url": "https://www.5rhythms.com/teachers/Neil+Pinnock"
-        },
-        {
-          "title": "Louise La Terra",
-          "url": "https://www.5rhythms.com/teachers/Louise+La+Terra"
-        }
-      ],
-      "levels": [
-        {
-          "title": "Waves",
-          "url": "https://www.5rhythms.com/waves-circle/"
-        }
-      ],
-      "city": "West Midlands",
-      "country": "United Kingdom",
-      "contact": {
-        "hasContactForm": true,
-        "teacherId": "296511",
-        "phone": "+44 (0)7761 856154"
-      }
-    },
-    {
-      "name": "New Year's dance",
-      "url": "https://www.5rhythms.com/workshops/NewYearsdance-296988",
-      "is_ondemand": false,
-      "date_from": "251230",
-      "date_to": "251230",
-      "teachers": [
-        {
-          "title": "Jelena Vajagic",
-          "url": "https://www.5rhythms.com/teachers/Jelena+Vajagic"
-        }
-      ],
-      "levels": [
-        {
-          "title": "Waves",
-          "url": "https://www.5rhythms.com/waves-circle/"
-        }
-      ],
-      "city": "Belgrade",
-      "country": "Serbia",
-      "contact": {
-        "hasContactForm": true,
-        "teacherId": "296988",
-        "phone": "+381605540047"
-      }
-    },
-    {
-      "name": "New Year's Eve 2026: SOUL FAMILY",
-      "url": "https://www.5rhythms.com/workshops/NewYearsEveSOULFAMILY-296817",
-      "is_ondemand": false,
-      "date_from": "251230",
-      "date_to": "260101",
-      "teachers": [
-        {
-          "title": "Ambu Alessia Lencioni",
-          "url": "https://www.5rhythms.com/teachers/Ambu+Alessia+Lencioni"
-        }
-      ],
-      "levels": [
-        {
-          "title": "Waves",
-          "url": "https://www.5rhythms.com/waves-circle/"
-        }
-      ],
-      "city": "Lucca",
-      "country": "Italy",
-      "contact": {
-        "hasContactForm": true,
-        "teacherId": "296817",
-        "phone": "+393471307275"
-      }
-    },
-    {
-      "name": "New Year's Retreat \"Endings & new Beginnings\"",
-      "url": "https://www.5rhythms.com/workshops/NewYearsRetreatEndingsnewBeginnings-296370",
-      "is_ondemand": false,
-      "date_from": "251230",
-      "date_to": "260104",
-      "teachers": [
-        {
-          "title": "Brian  Kjoeller",
-          "url": "https://www.5rhythms.com/teachers/Brian++Kjoeller"
-        }
-      ],
-      "levels": [
-        {
-          "title": "Waves",
-          "url": "https://www.5rhythms.com/waves-circle/"
-        }
-      ],
-      "city": "Roskilde",
-      "country": "Denmark",
-      "contact": {
-        "hasContactForm": true,
-        "teacherId": "296370",
-        "phone": "40359717"
-      }
-    },
-    {
-      "name": "Seeds of Becoming - 5Rhythms® New Years movement workshop",
-      "url": "https://www.5rhythms.com/workshops/SeedsofBecomingRhythmsNewYearsmovementworkshop-296789",
-      "is_ondemand": false,
-      "date_from": "251230",
-      "date_to": "260101",
-      "teachers": [
-        {
-          "title": "Jonas Klingberg",
-          "url": "https://www.5rhythms.com/teachers/Jonas+Klingberg"
-        }
-      ],
-      "levels": [
-        {
-          "title": "Heartbeat",
-          "url": "https://www.5rhythms.com/heartbeat-circle/"
-        },
-        {
-          "title": "Waves",
-          "url": "https://www.5rhythms.com/waves-circle/"
-        }
-      ],
-      "city": "Stockholm",
-      "country": "Sweden",
-      "contact": {
-        "hasContactForm": true,
-        "teacherId": "296789",
-        "phone": "+46(0)70 281 00 02"
-      }
-    },
-    {
-      "name": "Slyvester Workshop",
-      "url": "https://www.5rhythms.com/workshops/SlyvesterWorkshop-296810",
-      "is_ondemand": false,
-      "date_from": "251230",
-      "date_to": "260101",
-      "teachers": [
-        {
-          "title": "Anouk Heike Maucher",
-          "url": "https://www.5rhythms.com/teachers/Anouk+Heike+Maucher"
-        }
-      ],
-      "levels": [
-        {
-          "title": "Waves",
-          "url": "https://www.5rhythms.com/waves-circle/"
-        }
-      ],
-      "city": "Freiburg",
-      "country": "Germany",
-      "contact": {
-        "hasContactForm": true,
-        "teacherId": "296810",
-        "phone": "0049 176 8141 1798"
       }
     },
     {
@@ -3641,6 +3477,32 @@
       }
     },
     {
+      "name": "Tantra meets 5Rhythms w/ Oliver & Shantam",
+      "url": "https://www.5rhythms.com/workshops/TantrameetsRhythmswOliverShantam-297150",
+      "is_ondemand": false,
+      "date_from": "260306",
+      "date_to": "260308",
+      "teachers": [
+        {
+          "title": "Oliver Euchner",
+          "url": "https://www.5rhythms.com/teachers/Oliver+Euchner"
+        }
+      ],
+      "levels": [
+        {
+          "title": "Waves",
+          "url": "https://www.5rhythms.com/waves-circle/"
+        }
+      ],
+      "city": "Hamburg",
+      "country": "Germany",
+      "contact": {
+        "hasContactForm": true,
+        "teacherId": "297150",
+        "phone": "+49-178-807-0430"
+      }
+    },
+    {
       "name": "Gaps ( Interstices)",
       "url": "https://www.5rhythms.com/workshops/GapsInterstices-296278",
       "is_ondemand": false,
@@ -4569,6 +4431,32 @@
         "hasContactForm": true,
         "teacherId": "296492",
         "phone": "+40724312825"
+      }
+    },
+    {
+      "name": "Power of Breath",
+      "url": "https://www.5rhythms.com/workshops/PowerofBreath-297148",
+      "is_ondemand": false,
+      "date_from": "260322",
+      "date_to": "260322",
+      "teachers": [
+        {
+          "title": "Katrien Mazijn",
+          "url": "https://www.5rhythms.com/teachers/Katrien+Mazijn"
+        }
+      ],
+      "levels": [
+        {
+          "title": "Waves",
+          "url": "https://www.5rhythms.com/waves-circle/"
+        }
+      ],
+      "city": "Brugge",
+      "country": "Belgium",
+      "contact": {
+        "hasContactForm": true,
+        "teacherId": "297148",
+        "phone": "0032495247204"
       }
     },
     {
@@ -8604,6 +8492,32 @@
         "hasContactForm": true,
         "teacherId": "296835",
         "phone": "+385915658084"
+      }
+    },
+    {
+      "name": "Tantra meets 5Rhythms w/ Oliver & Shantam",
+      "url": "https://www.5rhythms.com/workshops/TantrameetsRhythmswOliverShantam-297151",
+      "is_ondemand": false,
+      "date_from": "261127",
+      "date_to": "261129",
+      "teachers": [
+        {
+          "title": "Oliver Euchner",
+          "url": "https://www.5rhythms.com/teachers/Oliver+Euchner"
+        }
+      ],
+      "levels": [
+        {
+          "title": "Waves",
+          "url": "https://www.5rhythms.com/waves-circle/"
+        }
+      ],
+      "city": "Hamburg",
+      "country": "Germany",
+      "contact": {
+        "hasContactForm": true,
+        "teacherId": "297151",
+        "phone": "+49-178-807-0430"
       }
     },
     {

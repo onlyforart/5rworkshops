@@ -1,8 +1,8 @@
 {
   "metadata": {
     "sourceUrl": "https://www.5rhythms.com/EventSearch.php?validate_event_level=&event_type_id=2&event_country=&event_state=&event_city%5B%5D=&event_days%5B%5D=&event_startDate=mm%2Fdd%2Fyy&event_endDate=mm%2Fdd%2Fyy&location_lat=&location_long=&findIt=FIND+IT&isAdvancedSearch=1&SearchName=&SearchEvent=&event_level_id%5B%5D=",
-    "eventCount": 321,
-    "fetchedAt": "2025-12-31T06:01:26.995Z"
+    "eventCount": 315,
+    "fetchedAt": "2026-01-01T06:01:31.608Z"
   },
   "events": [
     {
@@ -55,162 +55,6 @@
         "hasContactForm": true,
         "teacherId": "296045",
         "phone": "07556019816"
-      }
-    },
-    {
-      "name": "DANCE TRANSITION - Silvesterworkshop",
-      "url": "https://www.5rhythms.com/workshops/DANCETRANSITIONSilvesterworkshop-295673",
-      "is_ondemand": false,
-      "date_from": "251231",
-      "date_to": "260101",
-      "teachers": [
-        {
-          "title": "Irene Husung",
-          "url": "https://www.5rhythms.com/teachers/Irene+Husung"
-        }
-      ],
-      "levels": [
-        {
-          "title": "Waves",
-          "url": "https://www.5rhythms.com/waves-circle/"
-        }
-      ],
-      "city": "Berlin",
-      "country": "Germany",
-      "contact": {
-        "hasContactForm": true,
-        "teacherId": "295673",
-        "phone": "+49.157.71593133"
-      }
-    },
-    {
-      "name": "Destiny",
-      "url": "https://www.5rhythms.com/workshops/Destiny-296317",
-      "is_ondemand": false,
-      "date_from": "251231",
-      "date_to": "260101",
-      "teachers": [
-        {
-          "title": "Bella Dreizler",
-          "url": "https://www.5rhythms.com/teachers/Bella+Dreizler"
-        }
-      ],
-      "levels": [
-        {
-          "title": "Waves",
-          "url": "https://www.5rhythms.com/waves-circle/"
-        }
-      ],
-      "city": "Sacramento",
-      "country": "United States",
-      "contact": {
-        "hasContactForm": true,
-        "teacherId": "296317",
-        "phone": "(916) 267-5478"
-      }
-    },
-    {
-      "name": "New Year's Eve Dance",
-      "url": "https://www.5rhythms.com/workshops/NewYearsEveDance-296875",
-      "is_ondemand": false,
-      "date_from": "251231",
-      "date_to": "260101",
-      "teachers": [
-        {
-          "title": "Irem Luqman",
-          "url": "https://www.5rhythms.com/teachers/Irem+Luqman"
-        }
-      ],
-      "levels": [
-        {
-          "title": "Waves",
-          "url": "https://www.5rhythms.com/waves-circle/"
-        }
-      ],
-      "city": "London",
-      "country": "United Kingdom",
-      "contact": {
-        "hasContactForm": true,
-        "teacherId": "296875",
-        "phone": "0044(0)7584040414"
-      }
-    },
-    {
-      "name": "New Year's Eve Dance",
-      "url": "https://www.5rhythms.com/workshops/NewYearsEveDance-296843",
-      "is_ondemand": false,
-      "date_from": "251231",
-      "date_to": "260101",
-      "teachers": [
-        {
-          "title": "Peter Fejer",
-          "url": "https://www.5rhythms.com/teachers/Peter+Fejer"
-        }
-      ],
-      "levels": [
-        {
-          "title": "Waves",
-          "url": "https://www.5rhythms.com/waves-circle/"
-        }
-      ],
-      "city": "Budapest",
-      "country": "Hungary",
-      "contact": {
-        "hasContactForm": true,
-        "teacherId": "296843",
-        "phone": "+36304752394"
-      }
-    },
-    {
-      "name": "New Year's Wave | Alchimia in movimento",
-      "url": "https://www.5rhythms.com/workshops/NewYearsWaveAlchimiainmovimento-296961",
-      "is_ondemand": false,
-      "date_from": "251231",
-      "date_to": "260101",
-      "teachers": [
-        {
-          "title": "Mauda Mengarelli",
-          "url": "https://www.5rhythms.com/teachers/Mauda+Mengarelli"
-        }
-      ],
-      "levels": [
-        {
-          "title": "Waves",
-          "url": "https://www.5rhythms.com/waves-circle/"
-        }
-      ],
-      "city": "Bologna",
-      "country": "Italy",
-      "contact": {
-        "hasContactForm": true,
-        "teacherId": "296961",
-        "phone": "+393333495298"
-      }
-    },
-    {
-      "name": "Silvester- RITUAL- Workshop",
-      "url": "https://www.5rhythms.com/workshops/SilvesterRITUALWorkshop-296489",
-      "is_ondemand": false,
-      "date_from": "251231",
-      "date_to": "260101",
-      "teachers": [
-        {
-          "title": "Iris Yasmine Harms",
-          "url": "https://www.5rhythms.com/teachers/Iris+Yasmine+Harms"
-        }
-      ],
-      "levels": [
-        {
-          "title": "Waves",
-          "url": "https://www.5rhythms.com/waves-circle/"
-        }
-      ],
-      "city": "Duesseldorf",
-      "country": "Germany",
-      "contact": {
-        "hasContactForm": true,
-        "teacherId": "296489",
-        "phone": "0049 162 755 87 22"
       }
     },
     {
@@ -4324,32 +4168,6 @@
     },
     {
       "name": "Wondering heart",
-      "url": "https://www.5rhythms.com/workshops/Wonderingheart-297139",
-      "is_ondemand": false,
-      "date_from": "260320",
-      "date_to": "260322",
-      "teachers": [
-        {
-          "title": "Jup Jansonius",
-          "url": "https://www.5rhythms.com/teachers/Jup+Jansonius"
-        }
-      ],
-      "levels": [
-        {
-          "title": "Heartbeat",
-          "url": "https://www.5rhythms.com/heartbeat-circle/"
-        }
-      ],
-      "city": "Tbilisi",
-      "country": "Georgia",
-      "contact": {
-        "hasContactForm": true,
-        "teacherId": "297139",
-        "phone": "+995599987602"
-      }
-    },
-    {
-      "name": "Wondering heart",
       "url": "https://www.5rhythms.com/workshops/Wonderingheart-297138",
       "is_ondemand": false,
       "date_from": "260320",
@@ -4371,6 +4189,32 @@
       "contact": {
         "hasContactForm": true,
         "teacherId": "297138",
+        "phone": "+995599987602"
+      }
+    },
+    {
+      "name": "Wondering heart",
+      "url": "https://www.5rhythms.com/workshops/Wonderingheart-297139",
+      "is_ondemand": false,
+      "date_from": "260320",
+      "date_to": "260322",
+      "teachers": [
+        {
+          "title": "Jup Jansonius",
+          "url": "https://www.5rhythms.com/teachers/Jup+Jansonius"
+        }
+      ],
+      "levels": [
+        {
+          "title": "Heartbeat",
+          "url": "https://www.5rhythms.com/heartbeat-circle/"
+        }
+      ],
+      "city": "Tbilisi",
+      "country": "Georgia",
+      "contact": {
+        "hasContactForm": true,
+        "teacherId": "297139",
         "phone": "+995599987602"
       }
     },

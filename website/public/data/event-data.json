@@ -1,8 +1,8 @@
 {
   "metadata": {
     "sourceUrl": "https://www.5rhythms.com/EventSearch.php?validate_event_level=&event_type_id=2&event_country=&event_state=&event_city%5B%5D=&event_days%5B%5D=&event_startDate=mm%2Fdd%2Fyy&event_endDate=mm%2Fdd%2Fyy&location_lat=&location_long=&findIt=FIND+IT&isAdvancedSearch=1&SearchName=&SearchEvent=&event_level_id%5B%5D=",
-    "eventCount": 315,
-    "fetchedAt": "2026-01-01T06:01:31.608Z"
+    "eventCount": 314,
+    "fetchedAt": "2026-01-02T06:01:25.967Z"
   },
   "events": [
     {
@@ -55,62 +55,6 @@
         "hasContactForm": true,
         "teacherId": "296045",
         "phone": "07556019816"
-      }
-    },
-    {
-      "name": "DÚISEACHT - Awaken to the New Year",
-      "url": "https://www.5rhythms.com/workshops/DISEACHTAwakentotheNewYear-296525",
-      "is_ondemand": false,
-      "date_from": "260101",
-      "date_to": "260101",
-      "teachers": [
-        {
-          "title": "Jenny Fahy",
-          "url": "https://www.5rhythms.com/teachers/Jenny+Fahy"
-        }
-      ],
-      "levels": [
-        {
-          "title": "Waves",
-          "url": "https://www.5rhythms.com/waves-circle/"
-        }
-      ],
-      "city": "Nenagh",
-      "country": "Ireland",
-      "contact": {
-        "hasContactForm": true,
-        "teacherId": "296525",
-        "phone": "00353863123429"
-      }
-    },
-    {
-      "name": "Renewal",
-      "url": "https://www.5rhythms.com/workshops/Renewal-296929",
-      "is_ondemand": false,
-      "date_from": "260101",
-      "date_to": "260101",
-      "teachers": [
-        {
-          "title": "Chris Boylan",
-          "url": "https://www.5rhythms.com/teachers/Chris+Boylan"
-        },
-        {
-          "title": "Liz Collier",
-          "url": "https://www.5rhythms.com/teachers/Liz+Collier"
-        }
-      ],
-      "levels": [
-        {
-          "title": "Waves",
-          "url": "https://www.5rhythms.com/waves-circle/"
-        }
-      ],
-      "city": "York",
-      "country": "United Kingdom",
-      "contact": {
-        "hasContactForm": true,
-        "teacherId": "296929",
-        "phone": "+447988820039"
       }
     },
     {
@@ -728,6 +672,32 @@
       }
     },
     {
+      "name": "Winter Sanctuary",
+      "url": "https://www.5rhythms.com/workshops/WinterSanctuary-297168",
+      "is_ondemand": false,
+      "date_from": "260116",
+      "date_to": "260117",
+      "teachers": [
+        {
+          "title": "Julia Mercurio",
+          "url": "https://www.5rhythms.com/teachers/Julia+Mercurio"
+        }
+      ],
+      "levels": [
+        {
+          "title": "Waves",
+          "url": "https://www.5rhythms.com/waves-circle/"
+        }
+      ],
+      "city": "Budapest",
+      "country": "Hungary",
+      "contact": {
+        "hasContactForm": true,
+        "teacherId": "297168",
+        "phone": "+36 30 5730390"
+      }
+    },
+    {
       "name": "AUDACE - SCULPTER LE SAUVAGE",
       "url": "https://www.5rhythms.com/workshops/AUDACESCULPTERLESAUVAGE-296156",
       "is_ondemand": false,
@@ -1088,6 +1058,32 @@
         "hasContactForm": true,
         "teacherId": "297127",
         "phone": "0034 620 76 53 32"
+      }
+    },
+    {
+      "name": "Wintermagie",
+      "url": "https://www.5rhythms.com/workshops/Wintermagie-297169",
+      "is_ondemand": false,
+      "date_from": "260123",
+      "date_to": "260124",
+      "teachers": [
+        {
+          "title": "Julia Mercurio",
+          "url": "https://www.5rhythms.com/teachers/Julia+Mercurio"
+        }
+      ],
+      "levels": [
+        {
+          "title": "Waves",
+          "url": "https://www.5rhythms.com/waves-circle/"
+        }
+      ],
+      "city": "Vienna",
+      "country": "Austria",
+      "contact": {
+        "hasContactForm": true,
+        "teacherId": "297169",
+        "phone": "+36 30 5730390"
       }
     },
     {
@@ -1564,36 +1560,6 @@
       "contact": {
         "hasContactForm": true,
         "teacherId": "296597"
-      }
-    },
-    {
-      "name": "SHADOW DANCE",
-      "url": "https://www.5rhythms.com/workshops/SHADOWDANCE-296760",
-      "is_ondemand": false,
-      "date_from": "260130",
-      "date_to": "260201",
-      "teachers": [
-        {
-          "title": "Rimke  Pepers",
-          "url": "https://www.5rhythms.com/teachers/Rimke++Pepers"
-        }
-      ],
-      "levels": [
-        {
-          "title": "Heartbeat",
-          "url": "https://www.5rhythms.com/heartbeat-circle/"
-        },
-        {
-          "title": "Waves",
-          "url": "https://www.5rhythms.com/waves-circle/"
-        }
-      ],
-      "city": "Hoorn",
-      "country": "Netherlands",
-      "contact": {
-        "hasContactForm": true,
-        "teacherId": "296760",
-        "phone": "00 31 (0)6 51877857"
       }
     },
     {
@@ -4168,32 +4134,6 @@
     },
     {
       "name": "Wondering heart",
-      "url": "https://www.5rhythms.com/workshops/Wonderingheart-297138",
-      "is_ondemand": false,
-      "date_from": "260320",
-      "date_to": "260322",
-      "teachers": [
-        {
-          "title": "Jup Jansonius",
-          "url": "https://www.5rhythms.com/teachers/Jup+Jansonius"
-        }
-      ],
-      "levels": [
-        {
-          "title": "Heartbeat",
-          "url": "https://www.5rhythms.com/heartbeat-circle/"
-        }
-      ],
-      "city": "Tbilisi",
-      "country": "Georgia",
-      "contact": {
-        "hasContactForm": true,
-        "teacherId": "297138",
-        "phone": "+995599987602"
-      }
-    },
-    {
-      "name": "Wondering heart",
       "url": "https://www.5rhythms.com/workshops/Wonderingheart-297139",
       "is_ondemand": false,
       "date_from": "260320",
@@ -4215,6 +4155,32 @@
       "contact": {
         "hasContactForm": true,
         "teacherId": "297139",
+        "phone": "+995599987602"
+      }
+    },
+    {
+      "name": "Wondering heart",
+      "url": "https://www.5rhythms.com/workshops/Wonderingheart-297138",
+      "is_ondemand": false,
+      "date_from": "260320",
+      "date_to": "260322",
+      "teachers": [
+        {
+          "title": "Jup Jansonius",
+          "url": "https://www.5rhythms.com/teachers/Jup+Jansonius"
+        }
+      ],
+      "levels": [
+        {
+          "title": "Heartbeat",
+          "url": "https://www.5rhythms.com/heartbeat-circle/"
+        }
+      ],
+      "city": "Tbilisi",
+      "country": "Georgia",
+      "contact": {
+        "hasContactForm": true,
+        "teacherId": "297138",
         "phone": "+995599987602"
       }
     },
@@ -5913,31 +5879,6 @@
         "hasContactForm": true,
         "teacherId": "295802",
         "phone": "7932928284"
-      }
-    },
-    {
-      "name": "Wandlung / Transformation",
-      "url": "https://www.5rhythms.com/workshops/WandlungTransformation-294749",
-      "is_ondemand": false,
-      "date_from": "260515",
-      "date_to": "260517",
-      "teachers": [
-        {
-          "title": "Atmo Lars Lindvall",
-          "url": "https://www.5rhythms.com/teachers/Atmo+Lars+Lindvall"
-        }
-      ],
-      "levels": [
-        {
-          "title": "Waves",
-          "url": "https://www.5rhythms.com/waves-circle/"
-        }
-      ],
-      "city": "Davos",
-      "country": "Switzerland",
-      "contact": {
-        "hasContactForm": true,
-        "teacherId": "294749"
       }
     },
     {
@@ -8417,6 +8358,31 @@
         "hasContactForm": true,
         "teacherId": "296764",
         "phone": "00 31 (0)6 51877857"
+      }
+    },
+    {
+      "name": "Wandlung / Transformation",
+      "url": "https://www.5rhythms.com/workshops/WandlungTransformation-294749",
+      "is_ondemand": false,
+      "date_from": "261218",
+      "date_to": "261220",
+      "teachers": [
+        {
+          "title": "Atmo Lars Lindvall",
+          "url": "https://www.5rhythms.com/teachers/Atmo+Lars+Lindvall"
+        }
+      ],
+      "levels": [
+        {
+          "title": "Waves",
+          "url": "https://www.5rhythms.com/waves-circle/"
+        }
+      ],
+      "city": "Davos",
+      "country": "Switzerland",
+      "contact": {
+        "hasContactForm": true,
+        "teacherId": "294749"
       }
     },
     {

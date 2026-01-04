@@ -1,8 +1,8 @@
 {
   "metadata": {
     "sourceUrl": "https://www.5rhythms.com/EventSearch.php?validate_event_level=&event_type_id=2&event_country=&event_state=&event_city%5B%5D=&event_days%5B%5D=&event_startDate=mm%2Fdd%2Fyy&event_endDate=mm%2Fdd%2Fyy&location_lat=&location_long=&findIt=FIND+IT&isAdvancedSearch=1&SearchName=&SearchEvent=&event_level_id%5B%5D=",
-    "eventCount": 317,
-    "fetchedAt": "2026-01-03T06:01:32.994Z"
+    "eventCount": 311,
+    "fetchedAt": "2026-01-04T06:01:31.583Z"
   },
   "events": [
     {
@@ -55,195 +55,6 @@
         "hasContactForm": true,
         "teacherId": "296045",
         "phone": "07556019816"
-      }
-    },
-    {
-      "name": "Articulate ...to begin",
-      "url": "https://www.5rhythms.com/workshops/Articulatetobegin-297014",
-      "is_ondemand": false,
-      "date_from": "260103",
-      "date_to": "260103",
-      "teachers": [
-        {
-          "title": "Sarena Wolfaard",
-          "url": "https://www.5rhythms.com/teachers/Sarena+Wolfaard"
-        }
-      ],
-      "levels": [
-        {
-          "title": "Waves",
-          "url": "https://www.5rhythms.com/waves-circle/"
-        }
-      ],
-      "city": "Edinburgh",
-      "country": "United Kingdom",
-      "contact": {
-        "hasContactForm": true,
-        "teacherId": "297014"
-      }
-    },
-    {
-      "name": "Becoming My Own Blessing",
-      "url": "https://www.5rhythms.com/workshops/BecomingMyOwnBlessing-296837",
-      "is_ondemand": false,
-      "date_from": "260103",
-      "date_to": "260104",
-      "teachers": [
-        {
-          "title": "Neda Nenadic",
-          "url": "https://www.5rhythms.com/teachers/Neda+Nenadic"
-        }
-      ],
-      "levels": [
-        {
-          "title": "Waves",
-          "url": "https://www.5rhythms.com/waves-circle/"
-        }
-      ],
-      "city": "Brighton",
-      "country": "United Kingdom",
-      "contact": {
-        "hasContactForm": true,
-        "teacherId": "296837",
-        "phone": "00447779033129"
-      }
-    },
-    {
-      "name": "Dance for a Vision",
-      "url": "https://www.5rhythms.com/workshops/DanceforaVision-296915",
-      "is_ondemand": false,
-      "date_from": "260103",
-      "date_to": "260103",
-      "teachers": [
-        {
-          "title": "Dorine Hoog",
-          "url": "https://www.5rhythms.com/teachers/Dorine+Hoog"
-        }
-      ],
-      "levels": [
-        {
-          "title": "Waves",
-          "url": "https://www.5rhythms.com/waves-circle/"
-        }
-      ],
-      "city": "Utrecht",
-      "country": "Netherlands",
-      "contact": {
-        "hasContactForm": true,
-        "teacherId": "296915",
-        "phone": "+31.6.44.154.372"
-      }
-    },
-    {
-      "name": "Elemental Force: Flow of emotions",
-      "url": "https://www.5rhythms.com/workshops/ElementalForceFlowofemotions-296298",
-      "is_ondemand": false,
-      "date_from": "260103",
-      "date_to": "260104",
-      "teachers": [
-        {
-          "title": "Jup Jansonius",
-          "url": "https://www.5rhythms.com/teachers/Jup+Jansonius"
-        }
-      ],
-      "levels": [
-        {
-          "title": "Heartbeat",
-          "url": "https://www.5rhythms.com/heartbeat-circle/"
-        }
-      ],
-      "city": "Chiavari",
-      "country": "Italy",
-      "contact": {
-        "hasContactForm": true,
-        "teacherId": "296298",
-        "phone": "0031-6-81418018"
-      }
-    },
-    {
-      "name": "Feet First / Traed yn Gyntaf",
-      "url": "https://www.5rhythms.com/workshops/FeetFirstTraedynGyntaf-296871",
-      "is_ondemand": false,
-      "date_from": "260103",
-      "date_to": "260103",
-      "teachers": [
-        {
-          "title": "Alex Mackay",
-          "url": "https://www.5rhythms.com/teachers/Alex+Mackay"
-        },
-        {
-          "title": "Alan Withers",
-          "url": "https://www.5rhythms.com/teachers/Alan+Withers"
-        }
-      ],
-      "levels": [
-        {
-          "title": "Waves",
-          "url": "https://www.5rhythms.com/waves-circle/"
-        }
-      ],
-      "city": "Swansea",
-      "country": "United Kingdom",
-      "contact": {
-        "hasContactForm": true,
-        "teacherId": "296871",
-        "phone": "+44 (0)7950581056"
-      }
-    },
-    {
-      "name": "Heart in Motion: Chaos/Sadness: Releasing & Self-Regulation",
-      "url": "https://www.5rhythms.com/workshops/HeartinMotionChaosSadnessReleasingSelfRegulation-296008",
-      "is_ondemand": false,
-      "date_from": "260103",
-      "date_to": "260103",
-      "teachers": [
-        {
-          "title": "Christina Graham-Smith",
-          "url": "https://www.5rhythms.com/teachers/Christina+Graham-Smith"
-        },
-        {
-          "title": "Alessandro Moruzzi",
-          "url": "https://www.5rhythms.com/teachers/Alessandro+Moruzzi"
-        }
-      ],
-      "levels": [
-        {
-          "title": "Heartbeat",
-          "url": "https://www.5rhythms.com/heartbeat-circle/"
-        }
-      ],
-      "city": "San Diego",
-      "country": "United States",
-      "contact": {
-        "hasContactForm": true,
-        "teacherId": "296008",
-        "phone": "661-347-8398"
-      }
-    },
-    {
-      "name": "Partir du bon pied",
-      "url": "https://www.5rhythms.com/workshops/Partirdubonpied-296913",
-      "is_ondemand": false,
-      "date_from": "260103",
-      "date_to": "260103",
-      "teachers": [
-        {
-          "title": "Shanti bok rye Park",
-          "url": "https://www.5rhythms.com/teachers/Shanti+bok+rye+Park"
-        }
-      ],
-      "levels": [
-        {
-          "title": "Waves",
-          "url": "https://www.5rhythms.com/waves-circle/"
-        }
-      ],
-      "city": "Rimouski",
-      "country": "Canada",
-      "contact": {
-        "hasContactForm": true,
-        "teacherId": "296913",
-        "phone": "+1 418 723 2911"
       }
     },
     {
@@ -6992,6 +6803,32 @@
         "hasContactForm": true,
         "teacherId": "296855",
         "phone": "0032495247204"
+      }
+    },
+    {
+      "name": "W Nurcie Rzeki – warsztat 5Rytmów® dla kobiet",
+      "url": "https://www.5rhythms.com/workshops/WNurcieRzekiwarsztatRytmwdlakobiet-297184",
+      "is_ondemand": false,
+      "date_from": "260716",
+      "date_to": "260719",
+      "teachers": [
+        {
+          "title": "Paulina Lasek",
+          "url": "https://www.5rhythms.com/teachers/Paulina+Lasek"
+        }
+      ],
+      "levels": [
+        {
+          "title": "Waves",
+          "url": "https://www.5rhythms.com/waves-circle/"
+        }
+      ],
+      "city": "Ransko",
+      "country": "Poland",
+      "contact": {
+        "hasContactForm": true,
+        "teacherId": "297184",
+        "phone": "+48606303302"
       }
     },
     {
